@@ -1,0 +1,1501 @@
+Tipo de Cliente,Método de Pago,Tipo de Envío,Dispositivo,Navegador
+Nuevo,Débito,Recogida en Tienda,Windows/Mac,Chrome
+Premium,Débito,Recogida en Tienda,Windows/Mac,Chrome
+Vip,Débito,Recogida en Tienda,Windows/Mac,Chrome
+Corporativo,Débito,Recogida en Tienda,Windows/Mac,Chrome
+Nuevo,Crédito,Recogida en Tienda,Windows/Mac,Chrome
+Premium,Crédito,Recogida en Tienda,Windows/Mac,Chrome
+Vip,Crédito,Recogida en Tienda,Windows/Mac,Chrome
+Corporativo,Crédito,Recogida en Tienda,Windows/Mac,Chrome
+Nuevo,PayPal,Recogida en Tienda,Windows/Mac,Chrome
+Premium,PayPal,Recogida en Tienda,Windows/Mac,Chrome
+Vip,PayPal,Recogida en Tienda,Windows/Mac,Chrome
+Corporativo,PayPal,Recogida en Tienda,Windows/Mac,Chrome
+Nuevo,Transferencia,Recogida en Tienda,Windows/Mac,Chrome
+Premium,Transferencia,Recogida en Tienda,Windows/Mac,Chrome
+Vip,Transferencia,Recogida en Tienda,Windows/Mac,Chrome
+Corporativo,Transferencia,Recogida en Tienda,Windows/Mac,Chrome
+Nuevo,Contra entrega,Recogida en Tienda,Windows/Mac,Chrome
+Premium,Contra entrega,Recogida en Tienda,Windows/Mac,Chrome
+Vip,Contra entrega,Recogida en Tienda,Windows/Mac,Chrome
+Corporativo,Contra entrega,Recogida en Tienda,Windows/Mac,Chrome
+Nuevo,Débito, A Domicilio,Windows/Mac,Chrome
+Premium,Débito, A Domicilio,Windows/Mac,Chrome
+Vip,Débito, A Domicilio,Windows/Mac,Chrome
+Corporativo,Débito, A Domicilio,Windows/Mac,Chrome
+Nuevo,Crédito, A Domicilio,Windows/Mac,Chrome
+Premium,Crédito, A Domicilio,Windows/Mac,Chrome
+Vip,Crédito, A Domicilio,Windows/Mac,Chrome
+Corporativo,Crédito, A Domicilio,Windows/Mac,Chrome
+Nuevo,PayPal, A Domicilio,Windows/Mac,Chrome
+Premium,PayPal, A Domicilio,Windows/Mac,Chrome
+Vip,PayPal, A Domicilio,Windows/Mac,Chrome
+Corporativo,PayPal, A Domicilio,Windows/Mac,Chrome
+Nuevo,Transferencia, A Domicilio,Windows/Mac,Chrome
+Premium,Transferencia, A Domicilio,Windows/Mac,Chrome
+Vip,Transferencia, A Domicilio,Windows/Mac,Chrome
+Corporativo,Transferencia, A Domicilio,Windows/Mac,Chrome
+Nuevo,Contra entrega, A Domicilio,Windows/Mac,Chrome
+Premium,Contra entrega, A Domicilio,Windows/Mac,Chrome
+Vip,Contra entrega, A Domicilio,Windows/Mac,Chrome
+Corporativo,Contra entrega, A Domicilio,Windows/Mac,Chrome
+Nuevo,Débito,Internacional,Windows/Mac,Chrome
+Premium,Débito,Internacional,Windows/Mac,Chrome
+Vip,Débito,Internacional,Windows/Mac,Chrome
+Corporativo,Débito,Internacional,Windows/Mac,Chrome
+Nuevo,Crédito,Internacional,Windows/Mac,Chrome
+Premium,Crédito,Internacional,Windows/Mac,Chrome
+Vip,Crédito,Internacional,Windows/Mac,Chrome
+Corporativo,Crédito,Internacional,Windows/Mac,Chrome
+Nuevo,PayPal,Internacional,Windows/Mac,Chrome
+Premium,PayPal,Internacional,Windows/Mac,Chrome
+Vip,PayPal,Internacional,Windows/Mac,Chrome
+Corporativo,PayPal,Internacional,Windows/Mac,Chrome
+Nuevo,Transferencia,Internacional,Windows/Mac,Chrome
+Premium,Transferencia,Internacional,Windows/Mac,Chrome
+Vip,Transferencia,Internacional,Windows/Mac,Chrome
+Corporativo,Transferencia,Internacional,Windows/Mac,Chrome
+Nuevo,Contra entrega,Internacional,Windows/Mac,Chrome
+Premium,Contra entrega,Internacional,Windows/Mac,Chrome
+Vip,Contra entrega,Internacional,Windows/Mac,Chrome
+Corporativo,Contra entrega,Internacional,Windows/Mac,Chrome
+Nuevo,Débito,Recogida en Tienda,Laptop,Chrome
+Premium,Débito,Recogida en Tienda,Laptop,Chrome
+Vip,Débito,Recogida en Tienda,Laptop,Chrome
+Corporativo,Débito,Recogida en Tienda,Laptop,Chrome
+Nuevo,Crédito,Recogida en Tienda,Laptop,Chrome
+Premium,Crédito,Recogida en Tienda,Laptop,Chrome
+Vip,Crédito,Recogida en Tienda,Laptop,Chrome
+Corporativo,Crédito,Recogida en Tienda,Laptop,Chrome
+Nuevo,PayPal,Recogida en Tienda,Laptop,Chrome
+Premium,PayPal,Recogida en Tienda,Laptop,Chrome
+Vip,PayPal,Recogida en Tienda,Laptop,Chrome
+Corporativo,PayPal,Recogida en Tienda,Laptop,Chrome
+Nuevo,Transferencia,Recogida en Tienda,Laptop,Chrome
+Premium,Transferencia,Recogida en Tienda,Laptop,Chrome
+Vip,Transferencia,Recogida en Tienda,Laptop,Chrome
+Corporativo,Transferencia,Recogida en Tienda,Laptop,Chrome
+Nuevo,Contra entrega,Recogida en Tienda,Laptop,Chrome
+Premium,Contra entrega,Recogida en Tienda,Laptop,Chrome
+Vip,Contra entrega,Recogida en Tienda,Laptop,Chrome
+Corporativo,Contra entrega,Recogida en Tienda,Laptop,Chrome
+Nuevo,Débito, A Domicilio,Laptop,Chrome
+Premium,Débito, A Domicilio,Laptop,Chrome
+Vip,Débito, A Domicilio,Laptop,Chrome
+Corporativo,Débito, A Domicilio,Laptop,Chrome
+Nuevo,Crédito, A Domicilio,Laptop,Chrome
+Premium,Crédito, A Domicilio,Laptop,Chrome
+Vip,Crédito, A Domicilio,Laptop,Chrome
+Corporativo,Crédito, A Domicilio,Laptop,Chrome
+Nuevo,PayPal, A Domicilio,Laptop,Chrome
+Premium,PayPal, A Domicilio,Laptop,Chrome
+Vip,PayPal, A Domicilio,Laptop,Chrome
+Corporativo,PayPal, A Domicilio,Laptop,Chrome
+Nuevo,Transferencia, A Domicilio,Laptop,Chrome
+Premium,Transferencia, A Domicilio,Laptop,Chrome
+Vip,Transferencia, A Domicilio,Laptop,Chrome
+Corporativo,Transferencia, A Domicilio,Laptop,Chrome
+Nuevo,Contra entrega, A Domicilio,Laptop,Chrome
+Premium,Contra entrega, A Domicilio,Laptop,Chrome
+Vip,Contra entrega, A Domicilio,Laptop,Chrome
+Corporativo,Contra entrega, A Domicilio,Laptop,Chrome
+Nuevo,Débito,Internacional,Laptop,Chrome
+Premium,Débito,Internacional,Laptop,Chrome
+Vip,Débito,Internacional,Laptop,Chrome
+Corporativo,Débito,Internacional,Laptop,Chrome
+Nuevo,Crédito,Internacional,Laptop,Chrome
+Premium,Crédito,Internacional,Laptop,Chrome
+Vip,Crédito,Internacional,Laptop,Chrome
+Corporativo,Crédito,Internacional,Laptop,Chrome
+Nuevo,PayPal,Internacional,Laptop,Chrome
+Premium,PayPal,Internacional,Laptop,Chrome
+Vip,PayPal,Internacional,Laptop,Chrome
+Corporativo,PayPal,Internacional,Laptop,Chrome
+Nuevo,Transferencia,Internacional,Laptop,Chrome
+Premium,Transferencia,Internacional,Laptop,Chrome
+Vip,Transferencia,Internacional,Laptop,Chrome
+Corporativo,Transferencia,Internacional,Laptop,Chrome
+Nuevo,Contra entrega,Internacional,Laptop,Chrome
+Premium,Contra entrega,Internacional,Laptop,Chrome
+Vip,Contra entrega,Internacional,Laptop,Chrome
+Corporativo,Contra entrega,Internacional,Laptop,Chrome
+Nuevo,Débito,Recogida en Tienda,Android,Chrome
+Premium,Débito,Recogida en Tienda,Android,Chrome
+Vip,Débito,Recogida en Tienda,Android,Chrome
+Corporativo,Débito,Recogida en Tienda,Android,Chrome
+Nuevo,Crédito,Recogida en Tienda,Android,Chrome
+Premium,Crédito,Recogida en Tienda,Android,Chrome
+Vip,Crédito,Recogida en Tienda,Android,Chrome
+Corporativo,Crédito,Recogida en Tienda,Android,Chrome
+Nuevo,PayPal,Recogida en Tienda,Android,Chrome
+Premium,PayPal,Recogida en Tienda,Android,Chrome
+Vip,PayPal,Recogida en Tienda,Android,Chrome
+Corporativo,PayPal,Recogida en Tienda,Android,Chrome
+Nuevo,Transferencia,Recogida en Tienda,Android,Chrome
+Premium,Transferencia,Recogida en Tienda,Android,Chrome
+Vip,Transferencia,Recogida en Tienda,Android,Chrome
+Corporativo,Transferencia,Recogida en Tienda,Android,Chrome
+Nuevo,Contra entrega,Recogida en Tienda,Android,Chrome
+Premium,Contra entrega,Recogida en Tienda,Android,Chrome
+Vip,Contra entrega,Recogida en Tienda,Android,Chrome
+Corporativo,Contra entrega,Recogida en Tienda,Android,Chrome
+Nuevo,Débito, A Domicilio,Android,Chrome
+Premium,Débito, A Domicilio,Android,Chrome
+Vip,Débito, A Domicilio,Android,Chrome
+Corporativo,Débito, A Domicilio,Android,Chrome
+Nuevo,Crédito, A Domicilio,Android,Chrome
+Premium,Crédito, A Domicilio,Android,Chrome
+Vip,Crédito, A Domicilio,Android,Chrome
+Corporativo,Crédito, A Domicilio,Android,Chrome
+Nuevo,PayPal, A Domicilio,Android,Chrome
+Premium,PayPal, A Domicilio,Android,Chrome
+Vip,PayPal, A Domicilio,Android,Chrome
+Corporativo,PayPal, A Domicilio,Android,Chrome
+Nuevo,Transferencia, A Domicilio,Android,Chrome
+Premium,Transferencia, A Domicilio,Android,Chrome
+Vip,Transferencia, A Domicilio,Android,Chrome
+Corporativo,Transferencia, A Domicilio,Android,Chrome
+Nuevo,Contra entrega, A Domicilio,Android,Chrome
+Premium,Contra entrega, A Domicilio,Android,Chrome
+Vip,Contra entrega, A Domicilio,Android,Chrome
+Corporativo,Contra entrega, A Domicilio,Android,Chrome
+Nuevo,Débito,Internacional,Android,Chrome
+Premium,Débito,Internacional,Android,Chrome
+Vip,Débito,Internacional,Android,Chrome
+Corporativo,Débito,Internacional,Android,Chrome
+Nuevo,Crédito,Internacional,Android,Chrome
+Premium,Crédito,Internacional,Android,Chrome
+Vip,Crédito,Internacional,Android,Chrome
+Corporativo,Crédito,Internacional,Android,Chrome
+Nuevo,PayPal,Internacional,Android,Chrome
+Premium,PayPal,Internacional,Android,Chrome
+Vip,PayPal,Internacional,Android,Chrome
+Corporativo,PayPal,Internacional,Android,Chrome
+Nuevo,Transferencia,Internacional,Android,Chrome
+Premium,Transferencia,Internacional,Android,Chrome
+Vip,Transferencia,Internacional,Android,Chrome
+Corporativo,Transferencia,Internacional,Android,Chrome
+Nuevo,Contra entrega,Internacional,Android,Chrome
+Premium,Contra entrega,Internacional,Android,Chrome
+Vip,Contra entrega,Internacional,Android,Chrome
+Corporativo,Contra entrega,Internacional,Android,Chrome
+Nuevo,Débito,Recogida en Tienda,iPhone,Chrome
+Premium,Débito,Recogida en Tienda,iPhone,Chrome
+Vip,Débito,Recogida en Tienda,iPhone,Chrome
+Corporativo,Débito,Recogida en Tienda,iPhone,Chrome
+Nuevo,Crédito,Recogida en Tienda,iPhone,Chrome
+Premium,Crédito,Recogida en Tienda,iPhone,Chrome
+Vip,Crédito,Recogida en Tienda,iPhone,Chrome
+Corporativo,Crédito,Recogida en Tienda,iPhone,Chrome
+Nuevo,PayPal,Recogida en Tienda,iPhone,Chrome
+Premium,PayPal,Recogida en Tienda,iPhone,Chrome
+Vip,PayPal,Recogida en Tienda,iPhone,Chrome
+Corporativo,PayPal,Recogida en Tienda,iPhone,Chrome
+Nuevo,Transferencia,Recogida en Tienda,iPhone,Chrome
+Premium,Transferencia,Recogida en Tienda,iPhone,Chrome
+Vip,Transferencia,Recogida en Tienda,iPhone,Chrome
+Corporativo,Transferencia,Recogida en Tienda,iPhone,Chrome
+Nuevo,Contra entrega,Recogida en Tienda,iPhone,Chrome
+Premium,Contra entrega,Recogida en Tienda,iPhone,Chrome
+Vip,Contra entrega,Recogida en Tienda,iPhone,Chrome
+Corporativo,Contra entrega,Recogida en Tienda,iPhone,Chrome
+Nuevo,Débito, A Domicilio,iPhone,Chrome
+Premium,Débito, A Domicilio,iPhone,Chrome
+Vip,Débito, A Domicilio,iPhone,Chrome
+Corporativo,Débito, A Domicilio,iPhone,Chrome
+Nuevo,Crédito, A Domicilio,iPhone,Chrome
+Premium,Crédito, A Domicilio,iPhone,Chrome
+Vip,Crédito, A Domicilio,iPhone,Chrome
+Corporativo,Crédito, A Domicilio,iPhone,Chrome
+Nuevo,PayPal, A Domicilio,iPhone,Chrome
+Premium,PayPal, A Domicilio,iPhone,Chrome
+Vip,PayPal, A Domicilio,iPhone,Chrome
+Corporativo,PayPal, A Domicilio,iPhone,Chrome
+Nuevo,Transferencia, A Domicilio,iPhone,Chrome
+Premium,Transferencia, A Domicilio,iPhone,Chrome
+Vip,Transferencia, A Domicilio,iPhone,Chrome
+Corporativo,Transferencia, A Domicilio,iPhone,Chrome
+Nuevo,Contra entrega, A Domicilio,iPhone,Chrome
+Premium,Contra entrega, A Domicilio,iPhone,Chrome
+Vip,Contra entrega, A Domicilio,iPhone,Chrome
+Corporativo,Contra entrega, A Domicilio,iPhone,Chrome
+Nuevo,Débito,Internacional,iPhone,Chrome
+Premium,Débito,Internacional,iPhone,Chrome
+Vip,Débito,Internacional,iPhone,Chrome
+Corporativo,Débito,Internacional,iPhone,Chrome
+Nuevo,Crédito,Internacional,iPhone,Chrome
+Premium,Crédito,Internacional,iPhone,Chrome
+Vip,Crédito,Internacional,iPhone,Chrome
+Corporativo,Crédito,Internacional,iPhone,Chrome
+Nuevo,PayPal,Internacional,iPhone,Chrome
+Premium,PayPal,Internacional,iPhone,Chrome
+Vip,PayPal,Internacional,iPhone,Chrome
+Corporativo,PayPal,Internacional,iPhone,Chrome
+Nuevo,Transferencia,Internacional,iPhone,Chrome
+Premium,Transferencia,Internacional,iPhone,Chrome
+Vip,Transferencia,Internacional,iPhone,Chrome
+Corporativo,Transferencia,Internacional,iPhone,Chrome
+Nuevo,Contra entrega,Internacional,iPhone,Chrome
+Premium,Contra entrega,Internacional,iPhone,Chrome
+Vip,Contra entrega,Internacional,iPhone,Chrome
+Corporativo,Contra entrega,Internacional,iPhone,Chrome
+Nuevo,Débito,Recogida en Tienda,Tablet,Chrome
+Premium,Débito,Recogida en Tienda,Tablet,Chrome
+Vip,Débito,Recogida en Tienda,Tablet,Chrome
+Corporativo,Débito,Recogida en Tienda,Tablet,Chrome
+Nuevo,Crédito,Recogida en Tienda,Tablet,Chrome
+Premium,Crédito,Recogida en Tienda,Tablet,Chrome
+Vip,Crédito,Recogida en Tienda,Tablet,Chrome
+Corporativo,Crédito,Recogida en Tienda,Tablet,Chrome
+Nuevo,PayPal,Recogida en Tienda,Tablet,Chrome
+Premium,PayPal,Recogida en Tienda,Tablet,Chrome
+Vip,PayPal,Recogida en Tienda,Tablet,Chrome
+Corporativo,PayPal,Recogida en Tienda,Tablet,Chrome
+Nuevo,Transferencia,Recogida en Tienda,Tablet,Chrome
+Premium,Transferencia,Recogida en Tienda,Tablet,Chrome
+Vip,Transferencia,Recogida en Tienda,Tablet,Chrome
+Corporativo,Transferencia,Recogida en Tienda,Tablet,Chrome
+Nuevo,Contra entrega,Recogida en Tienda,Tablet,Chrome
+Premium,Contra entrega,Recogida en Tienda,Tablet,Chrome
+Vip,Contra entrega,Recogida en Tienda,Tablet,Chrome
+Corporativo,Contra entrega,Recogida en Tienda,Tablet,Chrome
+Nuevo,Débito, A Domicilio,Tablet,Chrome
+Premium,Débito, A Domicilio,Tablet,Chrome
+Vip,Débito, A Domicilio,Tablet,Chrome
+Corporativo,Débito, A Domicilio,Tablet,Chrome
+Nuevo,Crédito, A Domicilio,Tablet,Chrome
+Premium,Crédito, A Domicilio,Tablet,Chrome
+Vip,Crédito, A Domicilio,Tablet,Chrome
+Corporativo,Crédito, A Domicilio,Tablet,Chrome
+Nuevo,PayPal, A Domicilio,Tablet,Chrome
+Premium,PayPal, A Domicilio,Tablet,Chrome
+Vip,PayPal, A Domicilio,Tablet,Chrome
+Corporativo,PayPal, A Domicilio,Tablet,Chrome
+Nuevo,Transferencia, A Domicilio,Tablet,Chrome
+Premium,Transferencia, A Domicilio,Tablet,Chrome
+Vip,Transferencia, A Domicilio,Tablet,Chrome
+Corporativo,Transferencia, A Domicilio,Tablet,Chrome
+Nuevo,Contra entrega, A Domicilio,Tablet,Chrome
+Premium,Contra entrega, A Domicilio,Tablet,Chrome
+Vip,Contra entrega, A Domicilio,Tablet,Chrome
+Corporativo,Contra entrega, A Domicilio,Tablet,Chrome
+Nuevo,Débito,Internacional,Tablet,Chrome
+Premium,Débito,Internacional,Tablet,Chrome
+Vip,Débito,Internacional,Tablet,Chrome
+Corporativo,Débito,Internacional,Tablet,Chrome
+Nuevo,Crédito,Internacional,Tablet,Chrome
+Premium,Crédito,Internacional,Tablet,Chrome
+Vip,Crédito,Internacional,Tablet,Chrome
+Corporativo,Crédito,Internacional,Tablet,Chrome
+Nuevo,PayPal,Internacional,Tablet,Chrome
+Premium,PayPal,Internacional,Tablet,Chrome
+Vip,PayPal,Internacional,Tablet,Chrome
+Corporativo,PayPal,Internacional,Tablet,Chrome
+Nuevo,Transferencia,Internacional,Tablet,Chrome
+Premium,Transferencia,Internacional,Tablet,Chrome
+Vip,Transferencia,Internacional,Tablet,Chrome
+Corporativo,Transferencia,Internacional,Tablet,Chrome
+Nuevo,Contra entrega,Internacional,Tablet,Chrome
+Premium,Contra entrega,Internacional,Tablet,Chrome
+Vip,Contra entrega,Internacional,Tablet,Chrome
+Corporativo,Contra entrega,Internacional,Tablet,Chrome
+Nuevo,Débito,Recogida en Tienda,Windows/Mac,Firefox
+Premium,Débito,Recogida en Tienda,Windows/Mac,Firefox
+Vip,Débito,Recogida en Tienda,Windows/Mac,Firefox
+Corporativo,Débito,Recogida en Tienda,Windows/Mac,Firefox
+Nuevo,Crédito,Recogida en Tienda,Windows/Mac,Firefox
+Premium,Crédito,Recogida en Tienda,Windows/Mac,Firefox
+Vip,Crédito,Recogida en Tienda,Windows/Mac,Firefox
+Corporativo,Crédito,Recogida en Tienda,Windows/Mac,Firefox
+Nuevo,PayPal,Recogida en Tienda,Windows/Mac,Firefox
+Premium,PayPal,Recogida en Tienda,Windows/Mac,Firefox
+Vip,PayPal,Recogida en Tienda,Windows/Mac,Firefox
+Corporativo,PayPal,Recogida en Tienda,Windows/Mac,Firefox
+Nuevo,Transferencia,Recogida en Tienda,Windows/Mac,Firefox
+Premium,Transferencia,Recogida en Tienda,Windows/Mac,Firefox
+Vip,Transferencia,Recogida en Tienda,Windows/Mac,Firefox
+Corporativo,Transferencia,Recogida en Tienda,Windows/Mac,Firefox
+Nuevo,Contra entrega,Recogida en Tienda,Windows/Mac,Firefox
+Premium,Contra entrega,Recogida en Tienda,Windows/Mac,Firefox
+Vip,Contra entrega,Recogida en Tienda,Windows/Mac,Firefox
+Corporativo,Contra entrega,Recogida en Tienda,Windows/Mac,Firefox
+Nuevo,Débito, A Domicilio,Windows/Mac,Firefox
+Premium,Débito, A Domicilio,Windows/Mac,Firefox
+Vip,Débito, A Domicilio,Windows/Mac,Firefox
+Corporativo,Débito, A Domicilio,Windows/Mac,Firefox
+Nuevo,Crédito, A Domicilio,Windows/Mac,Firefox
+Premium,Crédito, A Domicilio,Windows/Mac,Firefox
+Vip,Crédito, A Domicilio,Windows/Mac,Firefox
+Corporativo,Crédito, A Domicilio,Windows/Mac,Firefox
+Nuevo,PayPal, A Domicilio,Windows/Mac,Firefox
+Premium,PayPal, A Domicilio,Windows/Mac,Firefox
+Vip,PayPal, A Domicilio,Windows/Mac,Firefox
+Corporativo,PayPal, A Domicilio,Windows/Mac,Firefox
+Nuevo,Transferencia, A Domicilio,Windows/Mac,Firefox
+Premium,Transferencia, A Domicilio,Windows/Mac,Firefox
+Vip,Transferencia, A Domicilio,Windows/Mac,Firefox
+Corporativo,Transferencia, A Domicilio,Windows/Mac,Firefox
+Nuevo,Contra entrega, A Domicilio,Windows/Mac,Firefox
+Premium,Contra entrega, A Domicilio,Windows/Mac,Firefox
+Vip,Contra entrega, A Domicilio,Windows/Mac,Firefox
+Corporativo,Contra entrega, A Domicilio,Windows/Mac,Firefox
+Nuevo,Débito,Internacional,Windows/Mac,Firefox
+Premium,Débito,Internacional,Windows/Mac,Firefox
+Vip,Débito,Internacional,Windows/Mac,Firefox
+Corporativo,Débito,Internacional,Windows/Mac,Firefox
+Nuevo,Crédito,Internacional,Windows/Mac,Firefox
+Premium,Crédito,Internacional,Windows/Mac,Firefox
+Vip,Crédito,Internacional,Windows/Mac,Firefox
+Corporativo,Crédito,Internacional,Windows/Mac,Firefox
+Nuevo,PayPal,Internacional,Windows/Mac,Firefox
+Premium,PayPal,Internacional,Windows/Mac,Firefox
+Vip,PayPal,Internacional,Windows/Mac,Firefox
+Corporativo,PayPal,Internacional,Windows/Mac,Firefox
+Nuevo,Transferencia,Internacional,Windows/Mac,Firefox
+Premium,Transferencia,Internacional,Windows/Mac,Firefox
+Vip,Transferencia,Internacional,Windows/Mac,Firefox
+Corporativo,Transferencia,Internacional,Windows/Mac,Firefox
+Nuevo,Contra entrega,Internacional,Windows/Mac,Firefox
+Premium,Contra entrega,Internacional,Windows/Mac,Firefox
+Vip,Contra entrega,Internacional,Windows/Mac,Firefox
+Corporativo,Contra entrega,Internacional,Windows/Mac,Firefox
+Nuevo,Débito,Recogida en Tienda,Laptop,Firefox
+Premium,Débito,Recogida en Tienda,Laptop,Firefox
+Vip,Débito,Recogida en Tienda,Laptop,Firefox
+Corporativo,Débito,Recogida en Tienda,Laptop,Firefox
+Nuevo,Crédito,Recogida en Tienda,Laptop,Firefox
+Premium,Crédito,Recogida en Tienda,Laptop,Firefox
+Vip,Crédito,Recogida en Tienda,Laptop,Firefox
+Corporativo,Crédito,Recogida en Tienda,Laptop,Firefox
+Nuevo,PayPal,Recogida en Tienda,Laptop,Firefox
+Premium,PayPal,Recogida en Tienda,Laptop,Firefox
+Vip,PayPal,Recogida en Tienda,Laptop,Firefox
+Corporativo,PayPal,Recogida en Tienda,Laptop,Firefox
+Nuevo,Transferencia,Recogida en Tienda,Laptop,Firefox
+Premium,Transferencia,Recogida en Tienda,Laptop,Firefox
+Vip,Transferencia,Recogida en Tienda,Laptop,Firefox
+Corporativo,Transferencia,Recogida en Tienda,Laptop,Firefox
+Nuevo,Contra entrega,Recogida en Tienda,Laptop,Firefox
+Premium,Contra entrega,Recogida en Tienda,Laptop,Firefox
+Vip,Contra entrega,Recogida en Tienda,Laptop,Firefox
+Corporativo,Contra entrega,Recogida en Tienda,Laptop,Firefox
+Nuevo,Débito, A Domicilio,Laptop,Firefox
+Premium,Débito, A Domicilio,Laptop,Firefox
+Vip,Débito, A Domicilio,Laptop,Firefox
+Corporativo,Débito, A Domicilio,Laptop,Firefox
+Nuevo,Crédito, A Domicilio,Laptop,Firefox
+Premium,Crédito, A Domicilio,Laptop,Firefox
+Vip,Crédito, A Domicilio,Laptop,Firefox
+Corporativo,Crédito, A Domicilio,Laptop,Firefox
+Nuevo,PayPal, A Domicilio,Laptop,Firefox
+Premium,PayPal, A Domicilio,Laptop,Firefox
+Vip,PayPal, A Domicilio,Laptop,Firefox
+Corporativo,PayPal, A Domicilio,Laptop,Firefox
+Nuevo,Transferencia, A Domicilio,Laptop,Firefox
+Premium,Transferencia, A Domicilio,Laptop,Firefox
+Vip,Transferencia, A Domicilio,Laptop,Firefox
+Corporativo,Transferencia, A Domicilio,Laptop,Firefox
+Nuevo,Contra entrega, A Domicilio,Laptop,Firefox
+Premium,Contra entrega, A Domicilio,Laptop,Firefox
+Vip,Contra entrega, A Domicilio,Laptop,Firefox
+Corporativo,Contra entrega, A Domicilio,Laptop,Firefox
+Nuevo,Débito,Internacional,Laptop,Firefox
+Premium,Débito,Internacional,Laptop,Firefox
+Vip,Débito,Internacional,Laptop,Firefox
+Corporativo,Débito,Internacional,Laptop,Firefox
+Nuevo,Crédito,Internacional,Laptop,Firefox
+Premium,Crédito,Internacional,Laptop,Firefox
+Vip,Crédito,Internacional,Laptop,Firefox
+Corporativo,Crédito,Internacional,Laptop,Firefox
+Nuevo,PayPal,Internacional,Laptop,Firefox
+Premium,PayPal,Internacional,Laptop,Firefox
+Vip,PayPal,Internacional,Laptop,Firefox
+Corporativo,PayPal,Internacional,Laptop,Firefox
+Nuevo,Transferencia,Internacional,Laptop,Firefox
+Premium,Transferencia,Internacional,Laptop,Firefox
+Vip,Transferencia,Internacional,Laptop,Firefox
+Corporativo,Transferencia,Internacional,Laptop,Firefox
+Nuevo,Contra entrega,Internacional,Laptop,Firefox
+Premium,Contra entrega,Internacional,Laptop,Firefox
+Vip,Contra entrega,Internacional,Laptop,Firefox
+Corporativo,Contra entrega,Internacional,Laptop,Firefox
+Nuevo,Débito,Recogida en Tienda,Android,Firefox
+Premium,Débito,Recogida en Tienda,Android,Firefox
+Vip,Débito,Recogida en Tienda,Android,Firefox
+Corporativo,Débito,Recogida en Tienda,Android,Firefox
+Nuevo,Crédito,Recogida en Tienda,Android,Firefox
+Premium,Crédito,Recogida en Tienda,Android,Firefox
+Vip,Crédito,Recogida en Tienda,Android,Firefox
+Corporativo,Crédito,Recogida en Tienda,Android,Firefox
+Nuevo,PayPal,Recogida en Tienda,Android,Firefox
+Premium,PayPal,Recogida en Tienda,Android,Firefox
+Vip,PayPal,Recogida en Tienda,Android,Firefox
+Corporativo,PayPal,Recogida en Tienda,Android,Firefox
+Nuevo,Transferencia,Recogida en Tienda,Android,Firefox
+Premium,Transferencia,Recogida en Tienda,Android,Firefox
+Vip,Transferencia,Recogida en Tienda,Android,Firefox
+Corporativo,Transferencia,Recogida en Tienda,Android,Firefox
+Nuevo,Contra entrega,Recogida en Tienda,Android,Firefox
+Premium,Contra entrega,Recogida en Tienda,Android,Firefox
+Vip,Contra entrega,Recogida en Tienda,Android,Firefox
+Corporativo,Contra entrega,Recogida en Tienda,Android,Firefox
+Nuevo,Débito, A Domicilio,Android,Firefox
+Premium,Débito, A Domicilio,Android,Firefox
+Vip,Débito, A Domicilio,Android,Firefox
+Corporativo,Débito, A Domicilio,Android,Firefox
+Nuevo,Crédito, A Domicilio,Android,Firefox
+Premium,Crédito, A Domicilio,Android,Firefox
+Vip,Crédito, A Domicilio,Android,Firefox
+Corporativo,Crédito, A Domicilio,Android,Firefox
+Nuevo,PayPal, A Domicilio,Android,Firefox
+Premium,PayPal, A Domicilio,Android,Firefox
+Vip,PayPal, A Domicilio,Android,Firefox
+Corporativo,PayPal, A Domicilio,Android,Firefox
+Nuevo,Transferencia, A Domicilio,Android,Firefox
+Premium,Transferencia, A Domicilio,Android,Firefox
+Vip,Transferencia, A Domicilio,Android,Firefox
+Corporativo,Transferencia, A Domicilio,Android,Firefox
+Nuevo,Contra entrega, A Domicilio,Android,Firefox
+Premium,Contra entrega, A Domicilio,Android,Firefox
+Vip,Contra entrega, A Domicilio,Android,Firefox
+Corporativo,Contra entrega, A Domicilio,Android,Firefox
+Nuevo,Débito,Internacional,Android,Firefox
+Premium,Débito,Internacional,Android,Firefox
+Vip,Débito,Internacional,Android,Firefox
+Corporativo,Débito,Internacional,Android,Firefox
+Nuevo,Crédito,Internacional,Android,Firefox
+Premium,Crédito,Internacional,Android,Firefox
+Vip,Crédito,Internacional,Android,Firefox
+Corporativo,Crédito,Internacional,Android,Firefox
+Nuevo,PayPal,Internacional,Android,Firefox
+Premium,PayPal,Internacional,Android,Firefox
+Vip,PayPal,Internacional,Android,Firefox
+Corporativo,PayPal,Internacional,Android,Firefox
+Nuevo,Transferencia,Internacional,Android,Firefox
+Premium,Transferencia,Internacional,Android,Firefox
+Vip,Transferencia,Internacional,Android,Firefox
+Corporativo,Transferencia,Internacional,Android,Firefox
+Nuevo,Contra entrega,Internacional,Android,Firefox
+Premium,Contra entrega,Internacional,Android,Firefox
+Vip,Contra entrega,Internacional,Android,Firefox
+Corporativo,Contra entrega,Internacional,Android,Firefox
+Nuevo,Débito,Recogida en Tienda,iPhone,Firefox
+Premium,Débito,Recogida en Tienda,iPhone,Firefox
+Vip,Débito,Recogida en Tienda,iPhone,Firefox
+Corporativo,Débito,Recogida en Tienda,iPhone,Firefox
+Nuevo,Crédito,Recogida en Tienda,iPhone,Firefox
+Premium,Crédito,Recogida en Tienda,iPhone,Firefox
+Vip,Crédito,Recogida en Tienda,iPhone,Firefox
+Corporativo,Crédito,Recogida en Tienda,iPhone,Firefox
+Nuevo,PayPal,Recogida en Tienda,iPhone,Firefox
+Premium,PayPal,Recogida en Tienda,iPhone,Firefox
+Vip,PayPal,Recogida en Tienda,iPhone,Firefox
+Corporativo,PayPal,Recogida en Tienda,iPhone,Firefox
+Nuevo,Transferencia,Recogida en Tienda,iPhone,Firefox
+Premium,Transferencia,Recogida en Tienda,iPhone,Firefox
+Vip,Transferencia,Recogida en Tienda,iPhone,Firefox
+Corporativo,Transferencia,Recogida en Tienda,iPhone,Firefox
+Nuevo,Contra entrega,Recogida en Tienda,iPhone,Firefox
+Premium,Contra entrega,Recogida en Tienda,iPhone,Firefox
+Vip,Contra entrega,Recogida en Tienda,iPhone,Firefox
+Corporativo,Contra entrega,Recogida en Tienda,iPhone,Firefox
+Nuevo,Débito, A Domicilio,iPhone,Firefox
+Premium,Débito, A Domicilio,iPhone,Firefox
+Vip,Débito, A Domicilio,iPhone,Firefox
+Corporativo,Débito, A Domicilio,iPhone,Firefox
+Nuevo,Crédito, A Domicilio,iPhone,Firefox
+Premium,Crédito, A Domicilio,iPhone,Firefox
+Vip,Crédito, A Domicilio,iPhone,Firefox
+Corporativo,Crédito, A Domicilio,iPhone,Firefox
+Nuevo,PayPal, A Domicilio,iPhone,Firefox
+Premium,PayPal, A Domicilio,iPhone,Firefox
+Vip,PayPal, A Domicilio,iPhone,Firefox
+Corporativo,PayPal, A Domicilio,iPhone,Firefox
+Nuevo,Transferencia, A Domicilio,iPhone,Firefox
+Premium,Transferencia, A Domicilio,iPhone,Firefox
+Vip,Transferencia, A Domicilio,iPhone,Firefox
+Corporativo,Transferencia, A Domicilio,iPhone,Firefox
+Nuevo,Contra entrega, A Domicilio,iPhone,Firefox
+Premium,Contra entrega, A Domicilio,iPhone,Firefox
+Vip,Contra entrega, A Domicilio,iPhone,Firefox
+Corporativo,Contra entrega, A Domicilio,iPhone,Firefox
+Nuevo,Débito,Internacional,iPhone,Firefox
+Premium,Débito,Internacional,iPhone,Firefox
+Vip,Débito,Internacional,iPhone,Firefox
+Corporativo,Débito,Internacional,iPhone,Firefox
+Nuevo,Crédito,Internacional,iPhone,Firefox
+Premium,Crédito,Internacional,iPhone,Firefox
+Vip,Crédito,Internacional,iPhone,Firefox
+Corporativo,Crédito,Internacional,iPhone,Firefox
+Nuevo,PayPal,Internacional,iPhone,Firefox
+Premium,PayPal,Internacional,iPhone,Firefox
+Vip,PayPal,Internacional,iPhone,Firefox
+Corporativo,PayPal,Internacional,iPhone,Firefox
+Nuevo,Transferencia,Internacional,iPhone,Firefox
+Premium,Transferencia,Internacional,iPhone,Firefox
+Vip,Transferencia,Internacional,iPhone,Firefox
+Corporativo,Transferencia,Internacional,iPhone,Firefox
+Nuevo,Contra entrega,Internacional,iPhone,Firefox
+Premium,Contra entrega,Internacional,iPhone,Firefox
+Vip,Contra entrega,Internacional,iPhone,Firefox
+Corporativo,Contra entrega,Internacional,iPhone,Firefox
+Nuevo,Débito,Recogida en Tienda,Tablet,Firefox
+Premium,Débito,Recogida en Tienda,Tablet,Firefox
+Vip,Débito,Recogida en Tienda,Tablet,Firefox
+Corporativo,Débito,Recogida en Tienda,Tablet,Firefox
+Nuevo,Crédito,Recogida en Tienda,Tablet,Firefox
+Premium,Crédito,Recogida en Tienda,Tablet,Firefox
+Vip,Crédito,Recogida en Tienda,Tablet,Firefox
+Corporativo,Crédito,Recogida en Tienda,Tablet,Firefox
+Nuevo,PayPal,Recogida en Tienda,Tablet,Firefox
+Premium,PayPal,Recogida en Tienda,Tablet,Firefox
+Vip,PayPal,Recogida en Tienda,Tablet,Firefox
+Corporativo,PayPal,Recogida en Tienda,Tablet,Firefox
+Nuevo,Transferencia,Recogida en Tienda,Tablet,Firefox
+Premium,Transferencia,Recogida en Tienda,Tablet,Firefox
+Vip,Transferencia,Recogida en Tienda,Tablet,Firefox
+Corporativo,Transferencia,Recogida en Tienda,Tablet,Firefox
+Nuevo,Contra entrega,Recogida en Tienda,Tablet,Firefox
+Premium,Contra entrega,Recogida en Tienda,Tablet,Firefox
+Vip,Contra entrega,Recogida en Tienda,Tablet,Firefox
+Corporativo,Contra entrega,Recogida en Tienda,Tablet,Firefox
+Nuevo,Débito, A Domicilio,Tablet,Firefox
+Premium,Débito, A Domicilio,Tablet,Firefox
+Vip,Débito, A Domicilio,Tablet,Firefox
+Corporativo,Débito, A Domicilio,Tablet,Firefox
+Nuevo,Crédito, A Domicilio,Tablet,Firefox
+Premium,Crédito, A Domicilio,Tablet,Firefox
+Vip,Crédito, A Domicilio,Tablet,Firefox
+Corporativo,Crédito, A Domicilio,Tablet,Firefox
+Nuevo,PayPal, A Domicilio,Tablet,Firefox
+Premium,PayPal, A Domicilio,Tablet,Firefox
+Vip,PayPal, A Domicilio,Tablet,Firefox
+Corporativo,PayPal, A Domicilio,Tablet,Firefox
+Nuevo,Transferencia, A Domicilio,Tablet,Firefox
+Premium,Transferencia, A Domicilio,Tablet,Firefox
+Vip,Transferencia, A Domicilio,Tablet,Firefox
+Corporativo,Transferencia, A Domicilio,Tablet,Firefox
+Nuevo,Contra entrega, A Domicilio,Tablet,Firefox
+Premium,Contra entrega, A Domicilio,Tablet,Firefox
+Vip,Contra entrega, A Domicilio,Tablet,Firefox
+Corporativo,Contra entrega, A Domicilio,Tablet,Firefox
+Nuevo,Débito,Internacional,Tablet,Firefox
+Premium,Débito,Internacional,Tablet,Firefox
+Vip,Débito,Internacional,Tablet,Firefox
+Corporativo,Débito,Internacional,Tablet,Firefox
+Nuevo,Crédito,Internacional,Tablet,Firefox
+Premium,Crédito,Internacional,Tablet,Firefox
+Vip,Crédito,Internacional,Tablet,Firefox
+Corporativo,Crédito,Internacional,Tablet,Firefox
+Nuevo,PayPal,Internacional,Tablet,Firefox
+Premium,PayPal,Internacional,Tablet,Firefox
+Vip,PayPal,Internacional,Tablet,Firefox
+Corporativo,PayPal,Internacional,Tablet,Firefox
+Nuevo,Transferencia,Internacional,Tablet,Firefox
+Premium,Transferencia,Internacional,Tablet,Firefox
+Vip,Transferencia,Internacional,Tablet,Firefox
+Corporativo,Transferencia,Internacional,Tablet,Firefox
+Nuevo,Contra entrega,Internacional,Tablet,Firefox
+Premium,Contra entrega,Internacional,Tablet,Firefox
+Vip,Contra entrega,Internacional,Tablet,Firefox
+Corporativo,Contra entrega,Internacional,Tablet,Firefox
+Nuevo,Débito,Recogida en Tienda,Windows/Mac,Edge
+Premium,Débito,Recogida en Tienda,Windows/Mac,Edge
+Vip,Débito,Recogida en Tienda,Windows/Mac,Edge
+Corporativo,Débito,Recogida en Tienda,Windows/Mac,Edge
+Nuevo,Crédito,Recogida en Tienda,Windows/Mac,Edge
+Premium,Crédito,Recogida en Tienda,Windows/Mac,Edge
+Vip,Crédito,Recogida en Tienda,Windows/Mac,Edge
+Corporativo,Crédito,Recogida en Tienda,Windows/Mac,Edge
+Nuevo,PayPal,Recogida en Tienda,Windows/Mac,Edge
+Premium,PayPal,Recogida en Tienda,Windows/Mac,Edge
+Vip,PayPal,Recogida en Tienda,Windows/Mac,Edge
+Corporativo,PayPal,Recogida en Tienda,Windows/Mac,Edge
+Nuevo,Transferencia,Recogida en Tienda,Windows/Mac,Edge
+Premium,Transferencia,Recogida en Tienda,Windows/Mac,Edge
+Vip,Transferencia,Recogida en Tienda,Windows/Mac,Edge
+Corporativo,Transferencia,Recogida en Tienda,Windows/Mac,Edge
+Nuevo,Contra entrega,Recogida en Tienda,Windows/Mac,Edge
+Premium,Contra entrega,Recogida en Tienda,Windows/Mac,Edge
+Vip,Contra entrega,Recogida en Tienda,Windows/Mac,Edge
+Corporativo,Contra entrega,Recogida en Tienda,Windows/Mac,Edge
+Nuevo,Débito, A Domicilio,Windows/Mac,Edge
+Premium,Débito, A Domicilio,Windows/Mac,Edge
+Vip,Débito, A Domicilio,Windows/Mac,Edge
+Corporativo,Débito, A Domicilio,Windows/Mac,Edge
+Nuevo,Crédito, A Domicilio,Windows/Mac,Edge
+Premium,Crédito, A Domicilio,Windows/Mac,Edge
+Vip,Crédito, A Domicilio,Windows/Mac,Edge
+Corporativo,Crédito, A Domicilio,Windows/Mac,Edge
+Nuevo,PayPal, A Domicilio,Windows/Mac,Edge
+Premium,PayPal, A Domicilio,Windows/Mac,Edge
+Vip,PayPal, A Domicilio,Windows/Mac,Edge
+Corporativo,PayPal, A Domicilio,Windows/Mac,Edge
+Nuevo,Transferencia, A Domicilio,Windows/Mac,Edge
+Premium,Transferencia, A Domicilio,Windows/Mac,Edge
+Vip,Transferencia, A Domicilio,Windows/Mac,Edge
+Corporativo,Transferencia, A Domicilio,Windows/Mac,Edge
+Nuevo,Contra entrega, A Domicilio,Windows/Mac,Edge
+Premium,Contra entrega, A Domicilio,Windows/Mac,Edge
+Vip,Contra entrega, A Domicilio,Windows/Mac,Edge
+Corporativo,Contra entrega, A Domicilio,Windows/Mac,Edge
+Nuevo,Débito,Internacional,Windows/Mac,Edge
+Premium,Débito,Internacional,Windows/Mac,Edge
+Vip,Débito,Internacional,Windows/Mac,Edge
+Corporativo,Débito,Internacional,Windows/Mac,Edge
+Nuevo,Crédito,Internacional,Windows/Mac,Edge
+Premium,Crédito,Internacional,Windows/Mac,Edge
+Vip,Crédito,Internacional,Windows/Mac,Edge
+Corporativo,Crédito,Internacional,Windows/Mac,Edge
+Nuevo,PayPal,Internacional,Windows/Mac,Edge
+Premium,PayPal,Internacional,Windows/Mac,Edge
+Vip,PayPal,Internacional,Windows/Mac,Edge
+Corporativo,PayPal,Internacional,Windows/Mac,Edge
+Nuevo,Transferencia,Internacional,Windows/Mac,Edge
+Premium,Transferencia,Internacional,Windows/Mac,Edge
+Vip,Transferencia,Internacional,Windows/Mac,Edge
+Corporativo,Transferencia,Internacional,Windows/Mac,Edge
+Nuevo,Contra entrega,Internacional,Windows/Mac,Edge
+Premium,Contra entrega,Internacional,Windows/Mac,Edge
+Vip,Contra entrega,Internacional,Windows/Mac,Edge
+Corporativo,Contra entrega,Internacional,Windows/Mac,Edge
+Nuevo,Débito,Recogida en Tienda,Laptop,Edge
+Premium,Débito,Recogida en Tienda,Laptop,Edge
+Vip,Débito,Recogida en Tienda,Laptop,Edge
+Corporativo,Débito,Recogida en Tienda,Laptop,Edge
+Nuevo,Crédito,Recogida en Tienda,Laptop,Edge
+Premium,Crédito,Recogida en Tienda,Laptop,Edge
+Vip,Crédito,Recogida en Tienda,Laptop,Edge
+Corporativo,Crédito,Recogida en Tienda,Laptop,Edge
+Nuevo,PayPal,Recogida en Tienda,Laptop,Edge
+Premium,PayPal,Recogida en Tienda,Laptop,Edge
+Vip,PayPal,Recogida en Tienda,Laptop,Edge
+Corporativo,PayPal,Recogida en Tienda,Laptop,Edge
+Nuevo,Transferencia,Recogida en Tienda,Laptop,Edge
+Premium,Transferencia,Recogida en Tienda,Laptop,Edge
+Vip,Transferencia,Recogida en Tienda,Laptop,Edge
+Corporativo,Transferencia,Recogida en Tienda,Laptop,Edge
+Nuevo,Contra entrega,Recogida en Tienda,Laptop,Edge
+Premium,Contra entrega,Recogida en Tienda,Laptop,Edge
+Vip,Contra entrega,Recogida en Tienda,Laptop,Edge
+Corporativo,Contra entrega,Recogida en Tienda,Laptop,Edge
+Nuevo,Débito, A Domicilio,Laptop,Edge
+Premium,Débito, A Domicilio,Laptop,Edge
+Vip,Débito, A Domicilio,Laptop,Edge
+Corporativo,Débito, A Domicilio,Laptop,Edge
+Nuevo,Crédito, A Domicilio,Laptop,Edge
+Premium,Crédito, A Domicilio,Laptop,Edge
+Vip,Crédito, A Domicilio,Laptop,Edge
+Corporativo,Crédito, A Domicilio,Laptop,Edge
+Nuevo,PayPal, A Domicilio,Laptop,Edge
+Premium,PayPal, A Domicilio,Laptop,Edge
+Vip,PayPal, A Domicilio,Laptop,Edge
+Corporativo,PayPal, A Domicilio,Laptop,Edge
+Nuevo,Transferencia, A Domicilio,Laptop,Edge
+Premium,Transferencia, A Domicilio,Laptop,Edge
+Vip,Transferencia, A Domicilio,Laptop,Edge
+Corporativo,Transferencia, A Domicilio,Laptop,Edge
+Nuevo,Contra entrega, A Domicilio,Laptop,Edge
+Premium,Contra entrega, A Domicilio,Laptop,Edge
+Vip,Contra entrega, A Domicilio,Laptop,Edge
+Corporativo,Contra entrega, A Domicilio,Laptop,Edge
+Nuevo,Débito,Internacional,Laptop,Edge
+Premium,Débito,Internacional,Laptop,Edge
+Vip,Débito,Internacional,Laptop,Edge
+Corporativo,Débito,Internacional,Laptop,Edge
+Nuevo,Crédito,Internacional,Laptop,Edge
+Premium,Crédito,Internacional,Laptop,Edge
+Vip,Crédito,Internacional,Laptop,Edge
+Corporativo,Crédito,Internacional,Laptop,Edge
+Nuevo,PayPal,Internacional,Laptop,Edge
+Premium,PayPal,Internacional,Laptop,Edge
+Vip,PayPal,Internacional,Laptop,Edge
+Corporativo,PayPal,Internacional,Laptop,Edge
+Nuevo,Transferencia,Internacional,Laptop,Edge
+Premium,Transferencia,Internacional,Laptop,Edge
+Vip,Transferencia,Internacional,Laptop,Edge
+Corporativo,Transferencia,Internacional,Laptop,Edge
+Nuevo,Contra entrega,Internacional,Laptop,Edge
+Premium,Contra entrega,Internacional,Laptop,Edge
+Vip,Contra entrega,Internacional,Laptop,Edge
+Corporativo,Contra entrega,Internacional,Laptop,Edge
+Nuevo,Débito,Recogida en Tienda,Android,Edge
+Premium,Débito,Recogida en Tienda,Android,Edge
+Vip,Débito,Recogida en Tienda,Android,Edge
+Corporativo,Débito,Recogida en Tienda,Android,Edge
+Nuevo,Crédito,Recogida en Tienda,Android,Edge
+Premium,Crédito,Recogida en Tienda,Android,Edge
+Vip,Crédito,Recogida en Tienda,Android,Edge
+Corporativo,Crédito,Recogida en Tienda,Android,Edge
+Nuevo,PayPal,Recogida en Tienda,Android,Edge
+Premium,PayPal,Recogida en Tienda,Android,Edge
+Vip,PayPal,Recogida en Tienda,Android,Edge
+Corporativo,PayPal,Recogida en Tienda,Android,Edge
+Nuevo,Transferencia,Recogida en Tienda,Android,Edge
+Premium,Transferencia,Recogida en Tienda,Android,Edge
+Vip,Transferencia,Recogida en Tienda,Android,Edge
+Corporativo,Transferencia,Recogida en Tienda,Android,Edge
+Nuevo,Contra entrega,Recogida en Tienda,Android,Edge
+Premium,Contra entrega,Recogida en Tienda,Android,Edge
+Vip,Contra entrega,Recogida en Tienda,Android,Edge
+Corporativo,Contra entrega,Recogida en Tienda,Android,Edge
+Nuevo,Débito, A Domicilio,Android,Edge
+Premium,Débito, A Domicilio,Android,Edge
+Vip,Débito, A Domicilio,Android,Edge
+Corporativo,Débito, A Domicilio,Android,Edge
+Nuevo,Crédito, A Domicilio,Android,Edge
+Premium,Crédito, A Domicilio,Android,Edge
+Vip,Crédito, A Domicilio,Android,Edge
+Corporativo,Crédito, A Domicilio,Android,Edge
+Nuevo,PayPal, A Domicilio,Android,Edge
+Premium,PayPal, A Domicilio,Android,Edge
+Vip,PayPal, A Domicilio,Android,Edge
+Corporativo,PayPal, A Domicilio,Android,Edge
+Nuevo,Transferencia, A Domicilio,Android,Edge
+Premium,Transferencia, A Domicilio,Android,Edge
+Vip,Transferencia, A Domicilio,Android,Edge
+Corporativo,Transferencia, A Domicilio,Android,Edge
+Nuevo,Contra entrega, A Domicilio,Android,Edge
+Premium,Contra entrega, A Domicilio,Android,Edge
+Vip,Contra entrega, A Domicilio,Android,Edge
+Corporativo,Contra entrega, A Domicilio,Android,Edge
+Nuevo,Débito,Internacional,Android,Edge
+Premium,Débito,Internacional,Android,Edge
+Vip,Débito,Internacional,Android,Edge
+Corporativo,Débito,Internacional,Android,Edge
+Nuevo,Crédito,Internacional,Android,Edge
+Premium,Crédito,Internacional,Android,Edge
+Vip,Crédito,Internacional,Android,Edge
+Corporativo,Crédito,Internacional,Android,Edge
+Nuevo,PayPal,Internacional,Android,Edge
+Premium,PayPal,Internacional,Android,Edge
+Vip,PayPal,Internacional,Android,Edge
+Corporativo,PayPal,Internacional,Android,Edge
+Nuevo,Transferencia,Internacional,Android,Edge
+Premium,Transferencia,Internacional,Android,Edge
+Vip,Transferencia,Internacional,Android,Edge
+Corporativo,Transferencia,Internacional,Android,Edge
+Nuevo,Contra entrega,Internacional,Android,Edge
+Premium,Contra entrega,Internacional,Android,Edge
+Vip,Contra entrega,Internacional,Android,Edge
+Corporativo,Contra entrega,Internacional,Android,Edge
+Nuevo,Débito,Recogida en Tienda,iPhone,Edge
+Premium,Débito,Recogida en Tienda,iPhone,Edge
+Vip,Débito,Recogida en Tienda,iPhone,Edge
+Corporativo,Débito,Recogida en Tienda,iPhone,Edge
+Nuevo,Crédito,Recogida en Tienda,iPhone,Edge
+Premium,Crédito,Recogida en Tienda,iPhone,Edge
+Vip,Crédito,Recogida en Tienda,iPhone,Edge
+Corporativo,Crédito,Recogida en Tienda,iPhone,Edge
+Nuevo,PayPal,Recogida en Tienda,iPhone,Edge
+Premium,PayPal,Recogida en Tienda,iPhone,Edge
+Vip,PayPal,Recogida en Tienda,iPhone,Edge
+Corporativo,PayPal,Recogida en Tienda,iPhone,Edge
+Nuevo,Transferencia,Recogida en Tienda,iPhone,Edge
+Premium,Transferencia,Recogida en Tienda,iPhone,Edge
+Vip,Transferencia,Recogida en Tienda,iPhone,Edge
+Corporativo,Transferencia,Recogida en Tienda,iPhone,Edge
+Nuevo,Contra entrega,Recogida en Tienda,iPhone,Edge
+Premium,Contra entrega,Recogida en Tienda,iPhone,Edge
+Vip,Contra entrega,Recogida en Tienda,iPhone,Edge
+Corporativo,Contra entrega,Recogida en Tienda,iPhone,Edge
+Nuevo,Débito, A Domicilio,iPhone,Edge
+Premium,Débito, A Domicilio,iPhone,Edge
+Vip,Débito, A Domicilio,iPhone,Edge
+Corporativo,Débito, A Domicilio,iPhone,Edge
+Nuevo,Crédito, A Domicilio,iPhone,Edge
+Premium,Crédito, A Domicilio,iPhone,Edge
+Vip,Crédito, A Domicilio,iPhone,Edge
+Corporativo,Crédito, A Domicilio,iPhone,Edge
+Nuevo,PayPal, A Domicilio,iPhone,Edge
+Premium,PayPal, A Domicilio,iPhone,Edge
+Vip,PayPal, A Domicilio,iPhone,Edge
+Corporativo,PayPal, A Domicilio,iPhone,Edge
+Nuevo,Transferencia, A Domicilio,iPhone,Edge
+Premium,Transferencia, A Domicilio,iPhone,Edge
+Vip,Transferencia, A Domicilio,iPhone,Edge
+Corporativo,Transferencia, A Domicilio,iPhone,Edge
+Nuevo,Contra entrega, A Domicilio,iPhone,Edge
+Premium,Contra entrega, A Domicilio,iPhone,Edge
+Vip,Contra entrega, A Domicilio,iPhone,Edge
+Corporativo,Contra entrega, A Domicilio,iPhone,Edge
+Nuevo,Débito,Internacional,iPhone,Edge
+Premium,Débito,Internacional,iPhone,Edge
+Vip,Débito,Internacional,iPhone,Edge
+Corporativo,Débito,Internacional,iPhone,Edge
+Nuevo,Crédito,Internacional,iPhone,Edge
+Premium,Crédito,Internacional,iPhone,Edge
+Vip,Crédito,Internacional,iPhone,Edge
+Corporativo,Crédito,Internacional,iPhone,Edge
+Nuevo,PayPal,Internacional,iPhone,Edge
+Premium,PayPal,Internacional,iPhone,Edge
+Vip,PayPal,Internacional,iPhone,Edge
+Corporativo,PayPal,Internacional,iPhone,Edge
+Nuevo,Transferencia,Internacional,iPhone,Edge
+Premium,Transferencia,Internacional,iPhone,Edge
+Vip,Transferencia,Internacional,iPhone,Edge
+Corporativo,Transferencia,Internacional,iPhone,Edge
+Nuevo,Contra entrega,Internacional,iPhone,Edge
+Premium,Contra entrega,Internacional,iPhone,Edge
+Vip,Contra entrega,Internacional,iPhone,Edge
+Corporativo,Contra entrega,Internacional,iPhone,Edge
+Nuevo,Débito,Recogida en Tienda,Tablet,Edge
+Premium,Débito,Recogida en Tienda,Tablet,Edge
+Vip,Débito,Recogida en Tienda,Tablet,Edge
+Corporativo,Débito,Recogida en Tienda,Tablet,Edge
+Nuevo,Crédito,Recogida en Tienda,Tablet,Edge
+Premium,Crédito,Recogida en Tienda,Tablet,Edge
+Vip,Crédito,Recogida en Tienda,Tablet,Edge
+Corporativo,Crédito,Recogida en Tienda,Tablet,Edge
+Nuevo,PayPal,Recogida en Tienda,Tablet,Edge
+Premium,PayPal,Recogida en Tienda,Tablet,Edge
+Vip,PayPal,Recogida en Tienda,Tablet,Edge
+Corporativo,PayPal,Recogida en Tienda,Tablet,Edge
+Nuevo,Transferencia,Recogida en Tienda,Tablet,Edge
+Premium,Transferencia,Recogida en Tienda,Tablet,Edge
+Vip,Transferencia,Recogida en Tienda,Tablet,Edge
+Corporativo,Transferencia,Recogida en Tienda,Tablet,Edge
+Nuevo,Contra entrega,Recogida en Tienda,Tablet,Edge
+Premium,Contra entrega,Recogida en Tienda,Tablet,Edge
+Vip,Contra entrega,Recogida en Tienda,Tablet,Edge
+Corporativo,Contra entrega,Recogida en Tienda,Tablet,Edge
+Nuevo,Débito, A Domicilio,Tablet,Edge
+Premium,Débito, A Domicilio,Tablet,Edge
+Vip,Débito, A Domicilio,Tablet,Edge
+Corporativo,Débito, A Domicilio,Tablet,Edge
+Nuevo,Crédito, A Domicilio,Tablet,Edge
+Premium,Crédito, A Domicilio,Tablet,Edge
+Vip,Crédito, A Domicilio,Tablet,Edge
+Corporativo,Crédito, A Domicilio,Tablet,Edge
+Nuevo,PayPal, A Domicilio,Tablet,Edge
+Premium,PayPal, A Domicilio,Tablet,Edge
+Vip,PayPal, A Domicilio,Tablet,Edge
+Corporativo,PayPal, A Domicilio,Tablet,Edge
+Nuevo,Transferencia, A Domicilio,Tablet,Edge
+Premium,Transferencia, A Domicilio,Tablet,Edge
+Vip,Transferencia, A Domicilio,Tablet,Edge
+Corporativo,Transferencia, A Domicilio,Tablet,Edge
+Nuevo,Contra entrega, A Domicilio,Tablet,Edge
+Premium,Contra entrega, A Domicilio,Tablet,Edge
+Vip,Contra entrega, A Domicilio,Tablet,Edge
+Corporativo,Contra entrega, A Domicilio,Tablet,Edge
+Nuevo,Débito,Internacional,Tablet,Edge
+Premium,Débito,Internacional,Tablet,Edge
+Vip,Débito,Internacional,Tablet,Edge
+Corporativo,Débito,Internacional,Tablet,Edge
+Nuevo,Crédito,Internacional,Tablet,Edge
+Premium,Crédito,Internacional,Tablet,Edge
+Vip,Crédito,Internacional,Tablet,Edge
+Corporativo,Crédito,Internacional,Tablet,Edge
+Nuevo,PayPal,Internacional,Tablet,Edge
+Premium,PayPal,Internacional,Tablet,Edge
+Vip,PayPal,Internacional,Tablet,Edge
+Corporativo,PayPal,Internacional,Tablet,Edge
+Nuevo,Transferencia,Internacional,Tablet,Edge
+Premium,Transferencia,Internacional,Tablet,Edge
+Vip,Transferencia,Internacional,Tablet,Edge
+Corporativo,Transferencia,Internacional,Tablet,Edge
+Nuevo,Contra entrega,Internacional,Tablet,Edge
+Premium,Contra entrega,Internacional,Tablet,Edge
+Vip,Contra entrega,Internacional,Tablet,Edge
+Corporativo,Contra entrega,Internacional,Tablet,Edge
+Nuevo,Débito,Recogida en Tienda,Windows/Mac,Safari
+Premium,Débito,Recogida en Tienda,Windows/Mac,Safari
+Vip,Débito,Recogida en Tienda,Windows/Mac,Safari
+Corporativo,Débito,Recogida en Tienda,Windows/Mac,Safari
+Nuevo,Crédito,Recogida en Tienda,Windows/Mac,Safari
+Premium,Crédito,Recogida en Tienda,Windows/Mac,Safari
+Vip,Crédito,Recogida en Tienda,Windows/Mac,Safari
+Corporativo,Crédito,Recogida en Tienda,Windows/Mac,Safari
+Nuevo,PayPal,Recogida en Tienda,Windows/Mac,Safari
+Premium,PayPal,Recogida en Tienda,Windows/Mac,Safari
+Vip,PayPal,Recogida en Tienda,Windows/Mac,Safari
+Corporativo,PayPal,Recogida en Tienda,Windows/Mac,Safari
+Nuevo,Transferencia,Recogida en Tienda,Windows/Mac,Safari
+Premium,Transferencia,Recogida en Tienda,Windows/Mac,Safari
+Vip,Transferencia,Recogida en Tienda,Windows/Mac,Safari
+Corporativo,Transferencia,Recogida en Tienda,Windows/Mac,Safari
+Nuevo,Contra entrega,Recogida en Tienda,Windows/Mac,Safari
+Premium,Contra entrega,Recogida en Tienda,Windows/Mac,Safari
+Vip,Contra entrega,Recogida en Tienda,Windows/Mac,Safari
+Corporativo,Contra entrega,Recogida en Tienda,Windows/Mac,Safari
+Nuevo,Débito, A Domicilio,Windows/Mac,Safari
+Premium,Débito, A Domicilio,Windows/Mac,Safari
+Vip,Débito, A Domicilio,Windows/Mac,Safari
+Corporativo,Débito, A Domicilio,Windows/Mac,Safari
+Nuevo,Crédito, A Domicilio,Windows/Mac,Safari
+Premium,Crédito, A Domicilio,Windows/Mac,Safari
+Vip,Crédito, A Domicilio,Windows/Mac,Safari
+Corporativo,Crédito, A Domicilio,Windows/Mac,Safari
+Nuevo,PayPal, A Domicilio,Windows/Mac,Safari
+Premium,PayPal, A Domicilio,Windows/Mac,Safari
+Vip,PayPal, A Domicilio,Windows/Mac,Safari
+Corporativo,PayPal, A Domicilio,Windows/Mac,Safari
+Nuevo,Transferencia, A Domicilio,Windows/Mac,Safari
+Premium,Transferencia, A Domicilio,Windows/Mac,Safari
+Vip,Transferencia, A Domicilio,Windows/Mac,Safari
+Corporativo,Transferencia, A Domicilio,Windows/Mac,Safari
+Nuevo,Contra entrega, A Domicilio,Windows/Mac,Safari
+Premium,Contra entrega, A Domicilio,Windows/Mac,Safari
+Vip,Contra entrega, A Domicilio,Windows/Mac,Safari
+Corporativo,Contra entrega, A Domicilio,Windows/Mac,Safari
+Nuevo,Débito,Internacional,Windows/Mac,Safari
+Premium,Débito,Internacional,Windows/Mac,Safari
+Vip,Débito,Internacional,Windows/Mac,Safari
+Corporativo,Débito,Internacional,Windows/Mac,Safari
+Nuevo,Crédito,Internacional,Windows/Mac,Safari
+Premium,Crédito,Internacional,Windows/Mac,Safari
+Vip,Crédito,Internacional,Windows/Mac,Safari
+Corporativo,Crédito,Internacional,Windows/Mac,Safari
+Nuevo,PayPal,Internacional,Windows/Mac,Safari
+Premium,PayPal,Internacional,Windows/Mac,Safari
+Vip,PayPal,Internacional,Windows/Mac,Safari
+Corporativo,PayPal,Internacional,Windows/Mac,Safari
+Nuevo,Transferencia,Internacional,Windows/Mac,Safari
+Premium,Transferencia,Internacional,Windows/Mac,Safari
+Vip,Transferencia,Internacional,Windows/Mac,Safari
+Corporativo,Transferencia,Internacional,Windows/Mac,Safari
+Nuevo,Contra entrega,Internacional,Windows/Mac,Safari
+Premium,Contra entrega,Internacional,Windows/Mac,Safari
+Vip,Contra entrega,Internacional,Windows/Mac,Safari
+Corporativo,Contra entrega,Internacional,Windows/Mac,Safari
+Nuevo,Débito,Recogida en Tienda,Laptop,Safari
+Premium,Débito,Recogida en Tienda,Laptop,Safari
+Vip,Débito,Recogida en Tienda,Laptop,Safari
+Corporativo,Débito,Recogida en Tienda,Laptop,Safari
+Nuevo,Crédito,Recogida en Tienda,Laptop,Safari
+Premium,Crédito,Recogida en Tienda,Laptop,Safari
+Vip,Crédito,Recogida en Tienda,Laptop,Safari
+Corporativo,Crédito,Recogida en Tienda,Laptop,Safari
+Nuevo,PayPal,Recogida en Tienda,Laptop,Safari
+Premium,PayPal,Recogida en Tienda,Laptop,Safari
+Vip,PayPal,Recogida en Tienda,Laptop,Safari
+Corporativo,PayPal,Recogida en Tienda,Laptop,Safari
+Nuevo,Transferencia,Recogida en Tienda,Laptop,Safari
+Premium,Transferencia,Recogida en Tienda,Laptop,Safari
+Vip,Transferencia,Recogida en Tienda,Laptop,Safari
+Corporativo,Transferencia,Recogida en Tienda,Laptop,Safari
+Nuevo,Contra entrega,Recogida en Tienda,Laptop,Safari
+Premium,Contra entrega,Recogida en Tienda,Laptop,Safari
+Vip,Contra entrega,Recogida en Tienda,Laptop,Safari
+Corporativo,Contra entrega,Recogida en Tienda,Laptop,Safari
+Nuevo,Débito, A Domicilio,Laptop,Safari
+Premium,Débito, A Domicilio,Laptop,Safari
+Vip,Débito, A Domicilio,Laptop,Safari
+Corporativo,Débito, A Domicilio,Laptop,Safari
+Nuevo,Crédito, A Domicilio,Laptop,Safari
+Premium,Crédito, A Domicilio,Laptop,Safari
+Vip,Crédito, A Domicilio,Laptop,Safari
+Corporativo,Crédito, A Domicilio,Laptop,Safari
+Nuevo,PayPal, A Domicilio,Laptop,Safari
+Premium,PayPal, A Domicilio,Laptop,Safari
+Vip,PayPal, A Domicilio,Laptop,Safari
+Corporativo,PayPal, A Domicilio,Laptop,Safari
+Nuevo,Transferencia, A Domicilio,Laptop,Safari
+Premium,Transferencia, A Domicilio,Laptop,Safari
+Vip,Transferencia, A Domicilio,Laptop,Safari
+Corporativo,Transferencia, A Domicilio,Laptop,Safari
+Nuevo,Contra entrega, A Domicilio,Laptop,Safari
+Premium,Contra entrega, A Domicilio,Laptop,Safari
+Vip,Contra entrega, A Domicilio,Laptop,Safari
+Corporativo,Contra entrega, A Domicilio,Laptop,Safari
+Nuevo,Débito,Internacional,Laptop,Safari
+Premium,Débito,Internacional,Laptop,Safari
+Vip,Débito,Internacional,Laptop,Safari
+Corporativo,Débito,Internacional,Laptop,Safari
+Nuevo,Crédito,Internacional,Laptop,Safari
+Premium,Crédito,Internacional,Laptop,Safari
+Vip,Crédito,Internacional,Laptop,Safari
+Corporativo,Crédito,Internacional,Laptop,Safari
+Nuevo,PayPal,Internacional,Laptop,Safari
+Premium,PayPal,Internacional,Laptop,Safari
+Vip,PayPal,Internacional,Laptop,Safari
+Corporativo,PayPal,Internacional,Laptop,Safari
+Nuevo,Transferencia,Internacional,Laptop,Safari
+Premium,Transferencia,Internacional,Laptop,Safari
+Vip,Transferencia,Internacional,Laptop,Safari
+Corporativo,Transferencia,Internacional,Laptop,Safari
+Nuevo,Contra entrega,Internacional,Laptop,Safari
+Premium,Contra entrega,Internacional,Laptop,Safari
+Vip,Contra entrega,Internacional,Laptop,Safari
+Corporativo,Contra entrega,Internacional,Laptop,Safari
+Nuevo,Débito,Recogida en Tienda,Android,Safari
+Premium,Débito,Recogida en Tienda,Android,Safari
+Vip,Débito,Recogida en Tienda,Android,Safari
+Corporativo,Débito,Recogida en Tienda,Android,Safari
+Nuevo,Crédito,Recogida en Tienda,Android,Safari
+Premium,Crédito,Recogida en Tienda,Android,Safari
+Vip,Crédito,Recogida en Tienda,Android,Safari
+Corporativo,Crédito,Recogida en Tienda,Android,Safari
+Nuevo,PayPal,Recogida en Tienda,Android,Safari
+Premium,PayPal,Recogida en Tienda,Android,Safari
+Vip,PayPal,Recogida en Tienda,Android,Safari
+Corporativo,PayPal,Recogida en Tienda,Android,Safari
+Nuevo,Transferencia,Recogida en Tienda,Android,Safari
+Premium,Transferencia,Recogida en Tienda,Android,Safari
+Vip,Transferencia,Recogida en Tienda,Android,Safari
+Corporativo,Transferencia,Recogida en Tienda,Android,Safari
+Nuevo,Contra entrega,Recogida en Tienda,Android,Safari
+Premium,Contra entrega,Recogida en Tienda,Android,Safari
+Vip,Contra entrega,Recogida en Tienda,Android,Safari
+Corporativo,Contra entrega,Recogida en Tienda,Android,Safari
+Nuevo,Débito, A Domicilio,Android,Safari
+Premium,Débito, A Domicilio,Android,Safari
+Vip,Débito, A Domicilio,Android,Safari
+Corporativo,Débito, A Domicilio,Android,Safari
+Nuevo,Crédito, A Domicilio,Android,Safari
+Premium,Crédito, A Domicilio,Android,Safari
+Vip,Crédito, A Domicilio,Android,Safari
+Corporativo,Crédito, A Domicilio,Android,Safari
+Nuevo,PayPal, A Domicilio,Android,Safari
+Premium,PayPal, A Domicilio,Android,Safari
+Vip,PayPal, A Domicilio,Android,Safari
+Corporativo,PayPal, A Domicilio,Android,Safari
+Nuevo,Transferencia, A Domicilio,Android,Safari
+Premium,Transferencia, A Domicilio,Android,Safari
+Vip,Transferencia, A Domicilio,Android,Safari
+Corporativo,Transferencia, A Domicilio,Android,Safari
+Nuevo,Contra entrega, A Domicilio,Android,Safari
+Premium,Contra entrega, A Domicilio,Android,Safari
+Vip,Contra entrega, A Domicilio,Android,Safari
+Corporativo,Contra entrega, A Domicilio,Android,Safari
+Nuevo,Débito,Internacional,Android,Safari
+Premium,Débito,Internacional,Android,Safari
+Vip,Débito,Internacional,Android,Safari
+Corporativo,Débito,Internacional,Android,Safari
+Nuevo,Crédito,Internacional,Android,Safari
+Premium,Crédito,Internacional,Android,Safari
+Vip,Crédito,Internacional,Android,Safari
+Corporativo,Crédito,Internacional,Android,Safari
+Nuevo,PayPal,Internacional,Android,Safari
+Premium,PayPal,Internacional,Android,Safari
+Vip,PayPal,Internacional,Android,Safari
+Corporativo,PayPal,Internacional,Android,Safari
+Nuevo,Transferencia,Internacional,Android,Safari
+Premium,Transferencia,Internacional,Android,Safari
+Vip,Transferencia,Internacional,Android,Safari
+Corporativo,Transferencia,Internacional,Android,Safari
+Nuevo,Contra entrega,Internacional,Android,Safari
+Premium,Contra entrega,Internacional,Android,Safari
+Vip,Contra entrega,Internacional,Android,Safari
+Corporativo,Contra entrega,Internacional,Android,Safari
+Nuevo,Débito,Recogida en Tienda,iPhone,Safari
+Premium,Débito,Recogida en Tienda,iPhone,Safari
+Vip,Débito,Recogida en Tienda,iPhone,Safari
+Corporativo,Débito,Recogida en Tienda,iPhone,Safari
+Nuevo,Crédito,Recogida en Tienda,iPhone,Safari
+Premium,Crédito,Recogida en Tienda,iPhone,Safari
+Vip,Crédito,Recogida en Tienda,iPhone,Safari
+Corporativo,Crédito,Recogida en Tienda,iPhone,Safari
+Nuevo,PayPal,Recogida en Tienda,iPhone,Safari
+Premium,PayPal,Recogida en Tienda,iPhone,Safari
+Vip,PayPal,Recogida en Tienda,iPhone,Safari
+Corporativo,PayPal,Recogida en Tienda,iPhone,Safari
+Nuevo,Transferencia,Recogida en Tienda,iPhone,Safari
+Premium,Transferencia,Recogida en Tienda,iPhone,Safari
+Vip,Transferencia,Recogida en Tienda,iPhone,Safari
+Corporativo,Transferencia,Recogida en Tienda,iPhone,Safari
+Nuevo,Contra entrega,Recogida en Tienda,iPhone,Safari
+Premium,Contra entrega,Recogida en Tienda,iPhone,Safari
+Vip,Contra entrega,Recogida en Tienda,iPhone,Safari
+Corporativo,Contra entrega,Recogida en Tienda,iPhone,Safari
+Nuevo,Débito, A Domicilio,iPhone,Safari
+Premium,Débito, A Domicilio,iPhone,Safari
+Vip,Débito, A Domicilio,iPhone,Safari
+Corporativo,Débito, A Domicilio,iPhone,Safari
+Nuevo,Crédito, A Domicilio,iPhone,Safari
+Premium,Crédito, A Domicilio,iPhone,Safari
+Vip,Crédito, A Domicilio,iPhone,Safari
+Corporativo,Crédito, A Domicilio,iPhone,Safari
+Nuevo,PayPal, A Domicilio,iPhone,Safari
+Premium,PayPal, A Domicilio,iPhone,Safari
+Vip,PayPal, A Domicilio,iPhone,Safari
+Corporativo,PayPal, A Domicilio,iPhone,Safari
+Nuevo,Transferencia, A Domicilio,iPhone,Safari
+Premium,Transferencia, A Domicilio,iPhone,Safari
+Vip,Transferencia, A Domicilio,iPhone,Safari
+Corporativo,Transferencia, A Domicilio,iPhone,Safari
+Nuevo,Contra entrega, A Domicilio,iPhone,Safari
+Premium,Contra entrega, A Domicilio,iPhone,Safari
+Vip,Contra entrega, A Domicilio,iPhone,Safari
+Corporativo,Contra entrega, A Domicilio,iPhone,Safari
+Nuevo,Débito,Internacional,iPhone,Safari
+Premium,Débito,Internacional,iPhone,Safari
+Vip,Débito,Internacional,iPhone,Safari
+Corporativo,Débito,Internacional,iPhone,Safari
+Nuevo,Crédito,Internacional,iPhone,Safari
+Premium,Crédito,Internacional,iPhone,Safari
+Vip,Crédito,Internacional,iPhone,Safari
+Corporativo,Crédito,Internacional,iPhone,Safari
+Nuevo,PayPal,Internacional,iPhone,Safari
+Premium,PayPal,Internacional,iPhone,Safari
+Vip,PayPal,Internacional,iPhone,Safari
+Corporativo,PayPal,Internacional,iPhone,Safari
+Nuevo,Transferencia,Internacional,iPhone,Safari
+Premium,Transferencia,Internacional,iPhone,Safari
+Vip,Transferencia,Internacional,iPhone,Safari
+Corporativo,Transferencia,Internacional,iPhone,Safari
+Nuevo,Contra entrega,Internacional,iPhone,Safari
+Premium,Contra entrega,Internacional,iPhone,Safari
+Vip,Contra entrega,Internacional,iPhone,Safari
+Corporativo,Contra entrega,Internacional,iPhone,Safari
+Nuevo,Débito,Recogida en Tienda,Tablet,Safari
+Premium,Débito,Recogida en Tienda,Tablet,Safari
+Vip,Débito,Recogida en Tienda,Tablet,Safari
+Corporativo,Débito,Recogida en Tienda,Tablet,Safari
+Nuevo,Crédito,Recogida en Tienda,Tablet,Safari
+Premium,Crédito,Recogida en Tienda,Tablet,Safari
+Vip,Crédito,Recogida en Tienda,Tablet,Safari
+Corporativo,Crédito,Recogida en Tienda,Tablet,Safari
+Nuevo,PayPal,Recogida en Tienda,Tablet,Safari
+Premium,PayPal,Recogida en Tienda,Tablet,Safari
+Vip,PayPal,Recogida en Tienda,Tablet,Safari
+Corporativo,PayPal,Recogida en Tienda,Tablet,Safari
+Nuevo,Transferencia,Recogida en Tienda,Tablet,Safari
+Premium,Transferencia,Recogida en Tienda,Tablet,Safari
+Vip,Transferencia,Recogida en Tienda,Tablet,Safari
+Corporativo,Transferencia,Recogida en Tienda,Tablet,Safari
+Nuevo,Contra entrega,Recogida en Tienda,Tablet,Safari
+Premium,Contra entrega,Recogida en Tienda,Tablet,Safari
+Vip,Contra entrega,Recogida en Tienda,Tablet,Safari
+Corporativo,Contra entrega,Recogida en Tienda,Tablet,Safari
+Nuevo,Débito, A Domicilio,Tablet,Safari
+Premium,Débito, A Domicilio,Tablet,Safari
+Vip,Débito, A Domicilio,Tablet,Safari
+Corporativo,Débito, A Domicilio,Tablet,Safari
+Nuevo,Crédito, A Domicilio,Tablet,Safari
+Premium,Crédito, A Domicilio,Tablet,Safari
+Vip,Crédito, A Domicilio,Tablet,Safari
+Corporativo,Crédito, A Domicilio,Tablet,Safari
+Nuevo,PayPal, A Domicilio,Tablet,Safari
+Premium,PayPal, A Domicilio,Tablet,Safari
+Vip,PayPal, A Domicilio,Tablet,Safari
+Corporativo,PayPal, A Domicilio,Tablet,Safari
+Nuevo,Transferencia, A Domicilio,Tablet,Safari
+Premium,Transferencia, A Domicilio,Tablet,Safari
+Vip,Transferencia, A Domicilio,Tablet,Safari
+Corporativo,Transferencia, A Domicilio,Tablet,Safari
+Nuevo,Contra entrega, A Domicilio,Tablet,Safari
+Premium,Contra entrega, A Domicilio,Tablet,Safari
+Vip,Contra entrega, A Domicilio,Tablet,Safari
+Corporativo,Contra entrega, A Domicilio,Tablet,Safari
+Nuevo,Débito,Internacional,Tablet,Safari
+Premium,Débito,Internacional,Tablet,Safari
+Vip,Débito,Internacional,Tablet,Safari
+Corporativo,Débito,Internacional,Tablet,Safari
+Nuevo,Crédito,Internacional,Tablet,Safari
+Premium,Crédito,Internacional,Tablet,Safari
+Vip,Crédito,Internacional,Tablet,Safari
+Corporativo,Crédito,Internacional,Tablet,Safari
+Nuevo,PayPal,Internacional,Tablet,Safari
+Premium,PayPal,Internacional,Tablet,Safari
+Vip,PayPal,Internacional,Tablet,Safari
+Corporativo,PayPal,Internacional,Tablet,Safari
+Nuevo,Transferencia,Internacional,Tablet,Safari
+Premium,Transferencia,Internacional,Tablet,Safari
+Vip,Transferencia,Internacional,Tablet,Safari
+Corporativo,Transferencia,Internacional,Tablet,Safari
+Nuevo,Contra entrega,Internacional,Tablet,Safari
+Premium,Contra entrega,Internacional,Tablet,Safari
+Vip,Contra entrega,Internacional,Tablet,Safari
+Corporativo,Contra entrega,Internacional,Tablet,Safari
+Nuevo,Débito,Recogida en Tienda,Windows/Mac,Opera
+Premium,Débito,Recogida en Tienda,Windows/Mac,Opera
+Vip,Débito,Recogida en Tienda,Windows/Mac,Opera
+Corporativo,Débito,Recogida en Tienda,Windows/Mac,Opera
+Nuevo,Crédito,Recogida en Tienda,Windows/Mac,Opera
+Premium,Crédito,Recogida en Tienda,Windows/Mac,Opera
+Vip,Crédito,Recogida en Tienda,Windows/Mac,Opera
+Corporativo,Crédito,Recogida en Tienda,Windows/Mac,Opera
+Nuevo,PayPal,Recogida en Tienda,Windows/Mac,Opera
+Premium,PayPal,Recogida en Tienda,Windows/Mac,Opera
+Vip,PayPal,Recogida en Tienda,Windows/Mac,Opera
+Corporativo,PayPal,Recogida en Tienda,Windows/Mac,Opera
+Nuevo,Transferencia,Recogida en Tienda,Windows/Mac,Opera
+Premium,Transferencia,Recogida en Tienda,Windows/Mac,Opera
+Vip,Transferencia,Recogida en Tienda,Windows/Mac,Opera
+Corporativo,Transferencia,Recogida en Tienda,Windows/Mac,Opera
+Nuevo,Contra entrega,Recogida en Tienda,Windows/Mac,Opera
+Premium,Contra entrega,Recogida en Tienda,Windows/Mac,Opera
+Vip,Contra entrega,Recogida en Tienda,Windows/Mac,Opera
+Corporativo,Contra entrega,Recogida en Tienda,Windows/Mac,Opera
+Nuevo,Débito, A Domicilio,Windows/Mac,Opera
+Premium,Débito, A Domicilio,Windows/Mac,Opera
+Vip,Débito, A Domicilio,Windows/Mac,Opera
+Corporativo,Débito, A Domicilio,Windows/Mac,Opera
+Nuevo,Crédito, A Domicilio,Windows/Mac,Opera
+Premium,Crédito, A Domicilio,Windows/Mac,Opera
+Vip,Crédito, A Domicilio,Windows/Mac,Opera
+Corporativo,Crédito, A Domicilio,Windows/Mac,Opera
+Nuevo,PayPal, A Domicilio,Windows/Mac,Opera
+Premium,PayPal, A Domicilio,Windows/Mac,Opera
+Vip,PayPal, A Domicilio,Windows/Mac,Opera
+Corporativo,PayPal, A Domicilio,Windows/Mac,Opera
+Nuevo,Transferencia, A Domicilio,Windows/Mac,Opera
+Premium,Transferencia, A Domicilio,Windows/Mac,Opera
+Vip,Transferencia, A Domicilio,Windows/Mac,Opera
+Corporativo,Transferencia, A Domicilio,Windows/Mac,Opera
+Nuevo,Contra entrega, A Domicilio,Windows/Mac,Opera
+Premium,Contra entrega, A Domicilio,Windows/Mac,Opera
+Vip,Contra entrega, A Domicilio,Windows/Mac,Opera
+Corporativo,Contra entrega, A Domicilio,Windows/Mac,Opera
+Nuevo,Débito,Internacional,Windows/Mac,Opera
+Premium,Débito,Internacional,Windows/Mac,Opera
+Vip,Débito,Internacional,Windows/Mac,Opera
+Corporativo,Débito,Internacional,Windows/Mac,Opera
+Nuevo,Crédito,Internacional,Windows/Mac,Opera
+Premium,Crédito,Internacional,Windows/Mac,Opera
+Vip,Crédito,Internacional,Windows/Mac,Opera
+Corporativo,Crédito,Internacional,Windows/Mac,Opera
+Nuevo,PayPal,Internacional,Windows/Mac,Opera
+Premium,PayPal,Internacional,Windows/Mac,Opera
+Vip,PayPal,Internacional,Windows/Mac,Opera
+Corporativo,PayPal,Internacional,Windows/Mac,Opera
+Nuevo,Transferencia,Internacional,Windows/Mac,Opera
+Premium,Transferencia,Internacional,Windows/Mac,Opera
+Vip,Transferencia,Internacional,Windows/Mac,Opera
+Corporativo,Transferencia,Internacional,Windows/Mac,Opera
+Nuevo,Contra entrega,Internacional,Windows/Mac,Opera
+Premium,Contra entrega,Internacional,Windows/Mac,Opera
+Vip,Contra entrega,Internacional,Windows/Mac,Opera
+Corporativo,Contra entrega,Internacional,Windows/Mac,Opera
+Nuevo,Débito,Recogida en Tienda,Laptop,Opera
+Premium,Débito,Recogida en Tienda,Laptop,Opera
+Vip,Débito,Recogida en Tienda,Laptop,Opera
+Corporativo,Débito,Recogida en Tienda,Laptop,Opera
+Nuevo,Crédito,Recogida en Tienda,Laptop,Opera
+Premium,Crédito,Recogida en Tienda,Laptop,Opera
+Vip,Crédito,Recogida en Tienda,Laptop,Opera
+Corporativo,Crédito,Recogida en Tienda,Laptop,Opera
+Nuevo,PayPal,Recogida en Tienda,Laptop,Opera
+Premium,PayPal,Recogida en Tienda,Laptop,Opera
+Vip,PayPal,Recogida en Tienda,Laptop,Opera
+Corporativo,PayPal,Recogida en Tienda,Laptop,Opera
+Nuevo,Transferencia,Recogida en Tienda,Laptop,Opera
+Premium,Transferencia,Recogida en Tienda,Laptop,Opera
+Vip,Transferencia,Recogida en Tienda,Laptop,Opera
+Corporativo,Transferencia,Recogida en Tienda,Laptop,Opera
+Nuevo,Contra entrega,Recogida en Tienda,Laptop,Opera
+Premium,Contra entrega,Recogida en Tienda,Laptop,Opera
+Vip,Contra entrega,Recogida en Tienda,Laptop,Opera
+Corporativo,Contra entrega,Recogida en Tienda,Laptop,Opera
+Nuevo,Débito, A Domicilio,Laptop,Opera
+Premium,Débito, A Domicilio,Laptop,Opera
+Vip,Débito, A Domicilio,Laptop,Opera
+Corporativo,Débito, A Domicilio,Laptop,Opera
+Nuevo,Crédito, A Domicilio,Laptop,Opera
+Premium,Crédito, A Domicilio,Laptop,Opera
+Vip,Crédito, A Domicilio,Laptop,Opera
+Corporativo,Crédito, A Domicilio,Laptop,Opera
+Nuevo,PayPal, A Domicilio,Laptop,Opera
+Premium,PayPal, A Domicilio,Laptop,Opera
+Vip,PayPal, A Domicilio,Laptop,Opera
+Corporativo,PayPal, A Domicilio,Laptop,Opera
+Nuevo,Transferencia, A Domicilio,Laptop,Opera
+Premium,Transferencia, A Domicilio,Laptop,Opera
+Vip,Transferencia, A Domicilio,Laptop,Opera
+Corporativo,Transferencia, A Domicilio,Laptop,Opera
+Nuevo,Contra entrega, A Domicilio,Laptop,Opera
+Premium,Contra entrega, A Domicilio,Laptop,Opera
+Vip,Contra entrega, A Domicilio,Laptop,Opera
+Corporativo,Contra entrega, A Domicilio,Laptop,Opera
+Nuevo,Débito,Internacional,Laptop,Opera
+Premium,Débito,Internacional,Laptop,Opera
+Vip,Débito,Internacional,Laptop,Opera
+Corporativo,Débito,Internacional,Laptop,Opera
+Nuevo,Crédito,Internacional,Laptop,Opera
+Premium,Crédito,Internacional,Laptop,Opera
+Vip,Crédito,Internacional,Laptop,Opera
+Corporativo,Crédito,Internacional,Laptop,Opera
+Nuevo,PayPal,Internacional,Laptop,Opera
+Premium,PayPal,Internacional,Laptop,Opera
+Vip,PayPal,Internacional,Laptop,Opera
+Corporativo,PayPal,Internacional,Laptop,Opera
+Nuevo,Transferencia,Internacional,Laptop,Opera
+Premium,Transferencia,Internacional,Laptop,Opera
+Vip,Transferencia,Internacional,Laptop,Opera
+Corporativo,Transferencia,Internacional,Laptop,Opera
+Nuevo,Contra entrega,Internacional,Laptop,Opera
+Premium,Contra entrega,Internacional,Laptop,Opera
+Vip,Contra entrega,Internacional,Laptop,Opera
+Corporativo,Contra entrega,Internacional,Laptop,Opera
+Nuevo,Débito,Recogida en Tienda,Android,Opera
+Premium,Débito,Recogida en Tienda,Android,Opera
+Vip,Débito,Recogida en Tienda,Android,Opera
+Corporativo,Débito,Recogida en Tienda,Android,Opera
+Nuevo,Crédito,Recogida en Tienda,Android,Opera
+Premium,Crédito,Recogida en Tienda,Android,Opera
+Vip,Crédito,Recogida en Tienda,Android,Opera
+Corporativo,Crédito,Recogida en Tienda,Android,Opera
+Nuevo,PayPal,Recogida en Tienda,Android,Opera
+Premium,PayPal,Recogida en Tienda,Android,Opera
+Vip,PayPal,Recogida en Tienda,Android,Opera
+Corporativo,PayPal,Recogida en Tienda,Android,Opera
+Nuevo,Transferencia,Recogida en Tienda,Android,Opera
+Premium,Transferencia,Recogida en Tienda,Android,Opera
+Vip,Transferencia,Recogida en Tienda,Android,Opera
+Corporativo,Transferencia,Recogida en Tienda,Android,Opera
+Nuevo,Contra entrega,Recogida en Tienda,Android,Opera
+Premium,Contra entrega,Recogida en Tienda,Android,Opera
+Vip,Contra entrega,Recogida en Tienda,Android,Opera
+Corporativo,Contra entrega,Recogida en Tienda,Android,Opera
+Nuevo,Débito, A Domicilio,Android,Opera
+Premium,Débito, A Domicilio,Android,Opera
+Vip,Débito, A Domicilio,Android,Opera
+Corporativo,Débito, A Domicilio,Android,Opera
+Nuevo,Crédito, A Domicilio,Android,Opera
+Premium,Crédito, A Domicilio,Android,Opera
+Vip,Crédito, A Domicilio,Android,Opera
+Corporativo,Crédito, A Domicilio,Android,Opera
+Nuevo,PayPal, A Domicilio,Android,Opera
+Premium,PayPal, A Domicilio,Android,Opera
+Vip,PayPal, A Domicilio,Android,Opera
+Corporativo,PayPal, A Domicilio,Android,Opera
+Nuevo,Transferencia, A Domicilio,Android,Opera
+Premium,Transferencia, A Domicilio,Android,Opera
+Vip,Transferencia, A Domicilio,Android,Opera
+Corporativo,Transferencia, A Domicilio,Android,Opera
+Nuevo,Contra entrega, A Domicilio,Android,Opera
+Premium,Contra entrega, A Domicilio,Android,Opera
+Vip,Contra entrega, A Domicilio,Android,Opera
+Corporativo,Contra entrega, A Domicilio,Android,Opera
+Nuevo,Débito,Internacional,Android,Opera
+Premium,Débito,Internacional,Android,Opera
+Vip,Débito,Internacional,Android,Opera
+Corporativo,Débito,Internacional,Android,Opera
+Nuevo,Crédito,Internacional,Android,Opera
+Premium,Crédito,Internacional,Android,Opera
+Vip,Crédito,Internacional,Android,Opera
+Corporativo,Crédito,Internacional,Android,Opera
+Nuevo,PayPal,Internacional,Android,Opera
+Premium,PayPal,Internacional,Android,Opera
+Vip,PayPal,Internacional,Android,Opera
+Corporativo,PayPal,Internacional,Android,Opera
+Nuevo,Transferencia,Internacional,Android,Opera
+Premium,Transferencia,Internacional,Android,Opera
+Vip,Transferencia,Internacional,Android,Opera
+Corporativo,Transferencia,Internacional,Android,Opera
+Nuevo,Contra entrega,Internacional,Android,Opera
+Premium,Contra entrega,Internacional,Android,Opera
+Vip,Contra entrega,Internacional,Android,Opera
+Corporativo,Contra entrega,Internacional,Android,Opera
+Nuevo,Débito,Recogida en Tienda,iPhone,Opera
+Premium,Débito,Recogida en Tienda,iPhone,Opera
+Vip,Débito,Recogida en Tienda,iPhone,Opera
+Corporativo,Débito,Recogida en Tienda,iPhone,Opera
+Nuevo,Crédito,Recogida en Tienda,iPhone,Opera
+Premium,Crédito,Recogida en Tienda,iPhone,Opera
+Vip,Crédito,Recogida en Tienda,iPhone,Opera
+Corporativo,Crédito,Recogida en Tienda,iPhone,Opera
+Nuevo,PayPal,Recogida en Tienda,iPhone,Opera
+Premium,PayPal,Recogida en Tienda,iPhone,Opera
+Vip,PayPal,Recogida en Tienda,iPhone,Opera
+Corporativo,PayPal,Recogida en Tienda,iPhone,Opera
+Nuevo,Transferencia,Recogida en Tienda,iPhone,Opera
+Premium,Transferencia,Recogida en Tienda,iPhone,Opera
+Vip,Transferencia,Recogida en Tienda,iPhone,Opera
+Corporativo,Transferencia,Recogida en Tienda,iPhone,Opera
+Nuevo,Contra entrega,Recogida en Tienda,iPhone,Opera
+Premium,Contra entrega,Recogida en Tienda,iPhone,Opera
+Vip,Contra entrega,Recogida en Tienda,iPhone,Opera
+Corporativo,Contra entrega,Recogida en Tienda,iPhone,Opera
+Nuevo,Débito, A Domicilio,iPhone,Opera
+Premium,Débito, A Domicilio,iPhone,Opera
+Vip,Débito, A Domicilio,iPhone,Opera
+Corporativo,Débito, A Domicilio,iPhone,Opera
+Nuevo,Crédito, A Domicilio,iPhone,Opera
+Premium,Crédito, A Domicilio,iPhone,Opera
+Vip,Crédito, A Domicilio,iPhone,Opera
+Corporativo,Crédito, A Domicilio,iPhone,Opera
+Nuevo,PayPal, A Domicilio,iPhone,Opera
+Premium,PayPal, A Domicilio,iPhone,Opera
+Vip,PayPal, A Domicilio,iPhone,Opera
+Corporativo,PayPal, A Domicilio,iPhone,Opera
+Nuevo,Transferencia, A Domicilio,iPhone,Opera
+Premium,Transferencia, A Domicilio,iPhone,Opera
+Vip,Transferencia, A Domicilio,iPhone,Opera
+Corporativo,Transferencia, A Domicilio,iPhone,Opera
+Nuevo,Contra entrega, A Domicilio,iPhone,Opera
+Premium,Contra entrega, A Domicilio,iPhone,Opera
+Vip,Contra entrega, A Domicilio,iPhone,Opera
+Corporativo,Contra entrega, A Domicilio,iPhone,Opera
+Nuevo,Débito,Internacional,iPhone,Opera
+Premium,Débito,Internacional,iPhone,Opera
+Vip,Débito,Internacional,iPhone,Opera
+Corporativo,Débito,Internacional,iPhone,Opera
+Nuevo,Crédito,Internacional,iPhone,Opera
+Premium,Crédito,Internacional,iPhone,Opera
+Vip,Crédito,Internacional,iPhone,Opera
+Corporativo,Crédito,Internacional,iPhone,Opera
+Nuevo,PayPal,Internacional,iPhone,Opera
+Premium,PayPal,Internacional,iPhone,Opera
+Vip,PayPal,Internacional,iPhone,Opera
+Corporativo,PayPal,Internacional,iPhone,Opera
+Nuevo,Transferencia,Internacional,iPhone,Opera
+Premium,Transferencia,Internacional,iPhone,Opera
+Vip,Transferencia,Internacional,iPhone,Opera
+Corporativo,Transferencia,Internacional,iPhone,Opera
+Nuevo,Contra entrega,Internacional,iPhone,Opera
+Premium,Contra entrega,Internacional,iPhone,Opera
+Vip,Contra entrega,Internacional,iPhone,Opera
+Corporativo,Contra entrega,Internacional,iPhone,Opera
+Nuevo,Débito,Recogida en Tienda,Tablet,Opera
+Premium,Débito,Recogida en Tienda,Tablet,Opera
+Vip,Débito,Recogida en Tienda,Tablet,Opera
+Corporativo,Débito,Recogida en Tienda,Tablet,Opera
+Nuevo,Crédito,Recogida en Tienda,Tablet,Opera
+Premium,Crédito,Recogida en Tienda,Tablet,Opera
+Vip,Crédito,Recogida en Tienda,Tablet,Opera
+Corporativo,Crédito,Recogida en Tienda,Tablet,Opera
+Nuevo,PayPal,Recogida en Tienda,Tablet,Opera
+Premium,PayPal,Recogida en Tienda,Tablet,Opera
+Vip,PayPal,Recogida en Tienda,Tablet,Opera
+Corporativo,PayPal,Recogida en Tienda,Tablet,Opera
+Nuevo,Transferencia,Recogida en Tienda,Tablet,Opera
+Premium,Transferencia,Recogida en Tienda,Tablet,Opera
+Vip,Transferencia,Recogida en Tienda,Tablet,Opera
+Corporativo,Transferencia,Recogida en Tienda,Tablet,Opera
+Nuevo,Contra entrega,Recogida en Tienda,Tablet,Opera
+Premium,Contra entrega,Recogida en Tienda,Tablet,Opera
+Vip,Contra entrega,Recogida en Tienda,Tablet,Opera
+Corporativo,Contra entrega,Recogida en Tienda,Tablet,Opera
+Nuevo,Débito, A Domicilio,Tablet,Opera
+Premium,Débito, A Domicilio,Tablet,Opera
+Vip,Débito, A Domicilio,Tablet,Opera
+Corporativo,Débito, A Domicilio,Tablet,Opera
+Nuevo,Crédito, A Domicilio,Tablet,Opera
+Premium,Crédito, A Domicilio,Tablet,Opera
+Vip,Crédito, A Domicilio,Tablet,Opera
+Corporativo,Crédito, A Domicilio,Tablet,Opera
+Nuevo,PayPal, A Domicilio,Tablet,Opera
+Premium,PayPal, A Domicilio,Tablet,Opera
+Vip,PayPal, A Domicilio,Tablet,Opera
+Corporativo,PayPal, A Domicilio,Tablet,Opera
+Nuevo,Transferencia, A Domicilio,Tablet,Opera
+Premium,Transferencia, A Domicilio,Tablet,Opera
+Vip,Transferencia, A Domicilio,Tablet,Opera
+Corporativo,Transferencia, A Domicilio,Tablet,Opera
+Nuevo,Contra entrega, A Domicilio,Tablet,Opera
+Premium,Contra entrega, A Domicilio,Tablet,Opera
+Vip,Contra entrega, A Domicilio,Tablet,Opera
+Corporativo,Contra entrega, A Domicilio,Tablet,Opera
+Nuevo,Débito,Internacional,Tablet,Opera
+Premium,Débito,Internacional,Tablet,Opera
+Vip,Débito,Internacional,Tablet,Opera
+Corporativo,Débito,Internacional,Tablet,Opera
+Nuevo,Crédito,Internacional,Tablet,Opera
+Premium,Crédito,Internacional,Tablet,Opera
+Vip,Crédito,Internacional,Tablet,Opera
+Corporativo,Crédito,Internacional,Tablet,Opera
+Nuevo,PayPal,Internacional,Tablet,Opera
+Premium,PayPal,Internacional,Tablet,Opera
+Vip,PayPal,Internacional,Tablet,Opera
+Corporativo,PayPal,Internacional,Tablet,Opera
+Nuevo,Transferencia,Internacional,Tablet,Opera
+Premium,Transferencia,Internacional,Tablet,Opera
+Vip,Transferencia,Internacional,Tablet,Opera
+Corporativo,Transferencia,Internacional,Tablet,Opera
+Nuevo,Contra entrega,Internacional,Tablet,Opera
+Premium,Contra entrega,Internacional,Tablet,Opera
+Vip,Contra entrega,Internacional,Tablet,Opera
+Corporativo,Contra entrega,Internacional,Tablet,Opera

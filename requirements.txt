@@ -1,0 +1,6 @@
+pyDOE3
+allpairspy
+pytest
+pandas
+pytest-cov
+pylint

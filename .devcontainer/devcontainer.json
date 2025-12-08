@@ -1,0 +1,12 @@
+{
+  "name": "Pruebas-DOE",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.11",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}

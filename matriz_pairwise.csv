@@ -1,0 +1,31 @@
+Tipo_Cliente,Metodo_Pago,Tipo_Envio,Dispositivo,Navegador
+Nuevo,Débito,Recogida en Tienda,Windows/Mac,Chrome
+Premium,Crédito,A Domicilio,Laptop,Chrome
+Vip,PayPal,Internacional,Android,Chrome
+Corporativo,Transferencia,Internacional,iPhone,Firefox
+Corporativo,Contra entrega,A Domicilio,Tablet,Edge
+Vip,Contra entrega,Recogida en Tienda,iPhone,Safari
+Premium,Débito,Internacional,Tablet,Safari
+Nuevo,Transferencia,A Domicilio,Android,Safari
+Nuevo,PayPal,Recogida en Tienda,Laptop,Edge
+Premium,PayPal,A Domicilio,Windows/Mac,Firefox
+Vip,Crédito,Internacional,Windows/Mac,Edge
+Corporativo,Crédito,Recogida en Tienda,Android,Opera
+Vip,Débito,A Domicilio,Laptop,Opera
+Premium,Transferencia,Recogida en Tienda,Tablet,Opera
+Nuevo,Contra entrega,Internacional,Laptop,Opera
+Corporativo,Débito,Recogida en Tienda,iPhone,Chrome
+Corporativo,PayPal,Recogida en Tienda,Laptop,Safari
+Nuevo,Crédito,Recogida en Tienda,Tablet,Firefox
+Premium,Contra entrega,A Domicilio,Android,Firefox
+Vip,Transferencia,A Domicilio,Windows/Mac,Safari
+Vip,Transferencia,A Domicilio,iPhone,Edge
+Vip,PayPal,A Domicilio,Tablet,Firefox
+Premium,Débito,A Domicilio,Android,Edge
+Premium,PayPal,A Domicilio,iPhone,Opera
+Nuevo,Transferencia,A Domicilio,Laptop,Firefox
+Nuevo,Contra entrega,A Domicilio,Windows/Mac,Opera
+Nuevo,Crédito,A Domicilio,iPhone,Safari
+Corporativo,Transferencia,A Domicilio,Windows/Mac,Chrome
+Nuevo,Contra entrega,A Domicilio,Tablet,Chrome
+Nuevo,Débito,A Domicilio,Tablet,Firefox

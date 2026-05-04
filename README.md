@@ -108,3 +108,5 @@ El enfoque Pairwise logra una **reducción de más del 95%** en el número de ca
 - pytest / pytest-cov
 - pandas
 - pylint
+
+<!-- actualizado -->
